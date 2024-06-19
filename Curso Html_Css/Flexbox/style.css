@@ -1,0 +1,29 @@
+
+
+body{
+    background: rgb(33, 13, 46);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(17, 15, 15) 50%, rgb(22, 15, 4) 100%);
+}
+
+body h1{
+    text-align: center;
+    color: white;
+}
+
+#flexContainer{
+color: white;
+text-align: center;
+background: linear-gradient(90deg, #311c86 0%, #1e0f57 50%, #1e0f57 100%);
+height: 600px;
+display: flex;
+justify-content: center;
+align-content: center;
+flex-wrap: wrap;
+gap: 10px;
+}
+
+.item{
+height: 200px;
+width: 200px;
+background: linear-gradient(90deg, #543fa7 0%, #5e46bd 50%, #6e55d3 100%);
+}
