@@ -40,11 +40,14 @@ gap: 10px;
     flex-direction: column;
 }
 
+.cardImg{
+    min-height: 150px;
+}
+
 
 
 .item{
 width: 250px;
-height: 270px;
 border: 1px solid #00000059;
 border-radius: 7px;
 background: linear-gradient(90deg, #543fa7 0%, #5e46bd 50%, #6e55d3 100%);
@@ -52,9 +55,12 @@ background: linear-gradient(90deg, #543fa7 0%, #5e46bd 50%, #6e55d3 100%);
 
 .button{
     color: white;
+    width: 185px;
+    height: 30px;
     border: 1px solid rgba(0, 0, 0, 0.432);
     margin: auto;
-    border-radius: 6px;
+    margin-bottom: 10px;
+    border-radius: 15px;
     background: linear-gradient(90deg, #2f77a3 0%, #2b8ab6 50%, #0c7ca8 100%);
 }
 
@@ -62,7 +68,8 @@ background: linear-gradient(90deg, #543fa7 0%, #5e46bd 50%, #6e55d3 100%);
     color: rgb(19, 17, 17);
     border: 1px solid rgba(0, 0, 0, 0.432);
     margin: auto;
-    border-radius: 6px;
+    margin-bottom: 10px;
+    border-radius: 15px;
     background: linear-gradient(90deg, #3d9cd6 0%, #2b8ab6 50%, #078abe 100%);
    cursor: pointer;
 }
