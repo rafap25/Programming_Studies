@@ -54,3 +54,17 @@ header a {
 header a:hover{
     color: #f13239;
 }
+
+section h1{
+    color: rgb(255, 246, 246);
+}
+.hero{
+    background-image: url(../Images/banner.jpg);
+    background-size: cover; /*faz com que a imagem de fundo se adappte ao tamanho da tela*/
+    background-position: center 25%; /*com essa propriedade mostramos aonde queremos que a imagem seja distribuida na tela, primeiro horizontalmente e depois verticalmente.
+    
+    Geralmente se usa muito center,left right, no entanto podemos utilizar porcentagem para ter um valor
+    mais exato doque queremos fazer com a imagem, no caso dessa horizontalmente que a imagem priorize mostrar o centro e 25% da parte de cima*/
+    height: 320px;
+}
+
