@@ -114,5 +114,51 @@ section h1{
 }
 
 
+.history{
+    background-color: #0a0a0a;
+    border-top: 1px solid red;
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.historyDiv{
+  max-width: 1200px;    
+  border-bottom: 1px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 60px auto 0;  
+}
+
+.historyDiv article {
+    flex: 1 1 350px;
+}
+.historyDiv article h2,p{
+    color: #f0ebeb;
+    margin-bottom: 20px;
+}
+
+.historyDiv h2{
+    padding-left: 4px;
+}
+
+
+
+.historyDiv article a {
+    color: #f13239;
+    font-weight: bold;
+}
+
+.history h2{
+    border-left: 4px solid red;
+    
+}
+
+.history img{
+ max-width: 350px;
+}
+
+
+
+
 
 
