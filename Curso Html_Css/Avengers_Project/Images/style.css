@@ -117,45 +117,53 @@ section h1{
 .history{
     background-color: #0a0a0a;
     border-top: 1px solid red;
+    margin: 64px auto 400px;
+    padding: 92px 24px 0;
+}
+
+.history a {
+    color: red;
+}
+
+.history a:hover {
+    color: #ffffff;
+    transition: 0.2s;
+}
+
+.history .container {
+    max-width: 1200px;
     display: flex;
-    padding-bottom: 60px;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: center;
 }
 
-.historyDiv{
-  max-width: 1200px;    
-  border-bottom: 1px solid red;
-  display: flex;
-  flex-wrap: wrap;
-  margin: 60px auto 0;  
-}
-
-.historyDiv article {
+.history .container .col {
     flex: 1 1 350px;
 }
-.historyDiv article h2,p{
-    color: #f0ebeb;
-    margin-bottom: 20px;
+
+.history .container .col img {
+    width: 100%;
+    display: block;
 }
 
-.historyDiv h2{
-    padding-left: 4px;
-}
-
-
-
-.historyDiv article a {
-    color: #f13239;
-    font-weight: bold;
-}
-
-.history h2{
+.history h2 {
+    margin-bottom: 30px;
     border-left: 4px solid red;
-    
+    padding-left: 8px;
+    color: #f0ebeb  ;
 }
 
-.history img{
- max-width: 350px;
+.history p {
+    line-height: 1.5;
+    color: #f0ebeb;
 }
+
+.history p + p {
+    margin-top: 24px;
+}
+
+
 
 
 
