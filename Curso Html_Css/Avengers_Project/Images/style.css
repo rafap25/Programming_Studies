@@ -14,10 +14,14 @@ header img {
 }
 
 header{
-    background-color: #080808;
+    background-color: #0a0a0a;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
+    padding: 8px 24px;
+    row-gap: 8px;
+    column-gap: 24px;
     
 }
 
@@ -117,26 +121,45 @@ section h1{
 .history{
     background-color: #0a0a0a;
     border-top: 1px solid red;
-    margin: 64px auto 400px;
+    margin: 64px auto 0px;
     padding: 92px 24px 0;
 }
 
 .history a {
     color: red;
+    text-decoration: underline;
 }
 
 .history a:hover {
-    color: #ffffff;
+    color: #970f0f;
     transition: 0.2s;
 }
 
 .history .container {
-    max-width: 1200px;
+    max-width: 75%;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    margin: 0 auto 0;
     gap: 24px;
     align-items: center;
+    border-bottom: 1px solid red;
 }
+
+@media(max-width: 720px){
+    .history .container {
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+      
+}
+
+@media (max-width: 920px){
+    .history .container {
+        max-width: 100%;
+    }
+
+}
+
 
 .history .container .col {
     flex: 1 1 350px;
@@ -152,6 +175,7 @@ section h1{
     border-left: 4px solid red;
     padding-left: 8px;
     color: #f0ebeb  ;
+    
 }
 
 .history p {
@@ -163,6 +187,22 @@ section h1{
     margin-top: 24px;
 }
 
+footer{
+    background-color: #0a0a0a;
+    color: #ebebeb;
+    padding: 50px 24px;
+    text-align: center;
+    
+}
+
+footer a{
+    color: red;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: rgb(168, 9, 9);
+}
 
 
 
