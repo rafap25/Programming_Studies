@@ -48,20 +48,18 @@ nav ul li + li {
 
 */
 
-header a {
+.nav a {
     color: #f0ebeb;
     transition: 0.2s;
   
     
 }
 
-header a:hover{
+.nav a:hover{
     color: #f13239;
 }
 
-section h1{
-    color: rgb(255, 246, 246);
-}
+
 .hero{
     background-image: url(../Images/banner.jpg);
     background-size: cover; /*faz com que a imagem de fundo se adappte ao tamanho da tela*/
@@ -134,12 +132,12 @@ section h1{
     padding: 92px 24px 0;
 }
 
-.history a {
+.history a, footer a {
     color: red;
     text-decoration: underline;
 }
 
-.history a:hover {
+.history a:hover, footer a:hover {
     color: #970f0f;
     transition: 0.2s;
 }
@@ -205,14 +203,6 @@ footer{
     
 }
 
-footer a{
-    color: red;
-    text-decoration: underline;
-}
-
-footer a:hover {
-    color: rgb(168, 9, 9);
-}
 
 
 
