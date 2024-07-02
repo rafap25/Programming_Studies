@@ -69,7 +69,7 @@ nav ul li + li {
 
 
 .hero{
-    background-image: url(../Images/banner.jpg);
+    background-image: url(./Images/banner.jpg);
     background-size: cover; /*faz com que a imagem de fundo se adappte ao tamanho da tela*/
     background-position: center 25%; /*com essa propriedade mostramos aonde queremos que a imagem seja distribuida na tela, primeiro horizontalmente e depois verticalmente.
     
