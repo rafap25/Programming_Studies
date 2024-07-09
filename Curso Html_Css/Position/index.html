@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" id="scroll-to-top" > <!--NESTE CASO COMO PÛS O HEADER FIXED, AO TENTAR FAZER O SCROLL SMOOTH ELE NÃO VAI ATÉ O FINAL, ELE VAI ATÉ A PARTE AONDE A MARGEM NÃO FOI APLICADA,TIVE QUE DAR UMA MARGEM DE 100PX NO MAIN PARA QUE O CONTEÚDO APARECESSE,LOGO PARA FAZER FUNCIONAR COLOQUEI O ID SCROOL TO TOP NA TAG HTML PARA QUE ELE REALMENTE VÁ PARA O INÍCIO DE TODO HTML-->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <body id="scroll-to-top">
+    <body >
         <header>
           <h1>CSS Position</h1>
     
@@ -23,314 +23,54 @@
           
         </header>
     
-        <main>
-          <section id="static">
+        <main >
+          <section id="static" >
             <h2>static</h2>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate,
-              ea consequatur laudantium eos nisi obcaecati nesciunt? Commodi iste
-              soluta similique nisi atque omnis distinctio? Beatae blanditiis error
-              architecto, nam similique laborum dolore ipsam necessitatibus incidunt
-              sit dicta nesciunt provident minus. Architecto minus consectetur autem
-              vel doloremque non laudantium esse deserunt eligendi earum, impedit
-              labore libero recusandae, natus rem necessitatibus, molestias porro
-              possimus dolorum. Maxime aut aperiam eligendi iusto perspiciatis.
-              Quaerat eveniet quia voluptates placeat fugit harum ex quisquam
-              tempore, eum, obcaecati beatae velit molestiae sapiente odio labore
-              sunt, maxime optio facere neque nemo consequuntur. Mollitia sint
-              repellendus ex doloribus ullam at culpa corrupti natus numquam
-              distinctio repellat corporis, expedita quidem quia dolor itaque illo
-              modi tempora nesciunt, quae reiciendis. Iure natus minima, fugiat fuga
-              optio incidunt pariatur, sapiente perspiciatis ducimus vero maiores
-              deserunt necessitatibus odit animi explicabo enim aut? Quos aliquam ut
-              voluptates deserunt officiis ab quidem quasi porro cupiditate quo
-              delectus perspiciatis molestiae quaerat, nihil rerum! Amet aperiam
-              culpa fugit vero reprehenderit inventore quidem ipsam iusto ex, cum
-              temporibus, unde sunt quaerat tenetur voluptate qui repellat
-              aspernatur quasi error aliquid, adipisci iste delectus explicabo
-              fugiat? Necessitatibus impedit ab, illum molestiae similique enim
-              repudiandae laudantium, in odit, qui expedita. Optio id recusandae
-              placeat eius maxime! Voluptatibus, cum cupiditate mollitia nobis
-              assumenda suscipit quasi amet, pariatur aspernatur quibusdam itaque.
-              Eveniet vitae dicta, totam quibusdam, unde nam odio numquam voluptates
-              iste ullam iure, ducimus laboriosam minus quaerat? Amet laudantium
-              consectetur asperiores. Temporibus aperiam voluptatibus ullam aliquid.
-              Pariatur necessitatibus temporibus quis laborum magnam a repudiandae
-              reiciendis, voluptate iste incidunt, dicta ex repellendus sint enim
-              sequi, fuga sed voluptatum cumque non itaque veniam totam velit.
-              Officiis, itaque quaerat eos similique adipisci facere, minima illum
-              provident corrupti exercitationem cupiditate omnis unde voluptatem
-              molestiae, culpa fugit? Voluptatem doloremque, animi dicta alias qui
-              numquam aut est porro repellat, asperiores recusandae esse fuga
-              deserunt voluptas vel labore facilis, et velit. Molestiae eligendi,
-              quo minima voluptatum possimus delectus facilis aperiam ex consectetur
-              ipsum velit amet optio praesentium omnis quaerat obcaecati dolores aut
-              dolore rem eaque minus iste mollitia non vel. Autem repellat quod sunt
-              itaque ratione. Esse doloremque non placeat eaque quis optio. Natus
-              temporibus placeat quod nam molestiae omnis, porro commodi alias nobis
-              dolore impedit id odio voluptate vel quis consequuntur voluptatibus
-              perspiciatis. Repellendus quibusdam amet blanditiis. Quo ad velit
-              laboriosam molestiae officia perferendis! Unde, blanditiis laudantium
-              exercitationem odio incidunt est corrupti ut odit enim deserunt
-              ducimus at similique sed iste iusto, quam labore ullam quia veritatis.
-              Porro iure, facere dolore et enim asperiores quia, rem ut recusandae
-              blanditiis, repudiandae ab! Quod eius sint doloremque ad dicta non
-              officia atque a possimus, praesentium consequatur, veniam asperiores
-              tempore sed soluta repudiandae sit! Libero autem laboriosam eaque
-              voluptas veritatis distinctio sed quia maiores dolore cum. Maxime quas
-              beatae officiis alias! Fugiat repellat tempora, laboriosam recusandae
-              culpa incidunt omnis maxime magni laborum facilis iusto quis molestiae
-              eligendi officiis facere commodi asperiores ea rerum ex voluptas
-              fugit? Et officia cupiditate, quidem alias dolore obcaecati delectus
-              ut voluptate, repellat deserunt adipisci quaerat necessitatibus.
+            <p>O position static, que em português significa estático, é o mais utilizado de todos, pois, como dito acima, trata-se do valor que já vem por padrão quando criamos elementos no HTML. Seu comportamento, como o nome sugere, é ser estático. Ele apenas segue o fluxo junto dos outros elementos da página normalmente, tendo o canto superior esquerdo como referência.Este elemento não aceita as propriedades auxiliares top, bottom, left e right. No exemplo abaixo, mesmo aplicando o código position: static e top: 20px, o elemento não move 20 pixels do topo para baixo. Ele continua estático sendo alinhado no canto superior esquerdo.
             </p>
           </section>
     
           <section id="relative">
             <h2>relative</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate,
-              ea consequatur laudantium eos nisi obcaecati nesciunt? Commodi iste
-              soluta similique nisi atque omnis distinctio? Beatae blanditiis error
-              architecto, nam similique laborum dolore ipsam necessitatibus incidunt
-              sit dicta nesciunt provident minus. Architecto minus consectetur autem
-              vel doloremque non laudantium esse deserunt eligendi earum, impedit
-              labore libero recusandae, natus rem necessitatibus, molestias porro
-              possimus dolorum. Maxime aut aperiam eligendi iusto perspiciatis.
-              Quaerat eveniet quia voluptates placeat fugit harum ex quisquam
-              tempore, eum, obcaecati beatae velit molestiae sapiente odio labore
-              sunt, maxime optio facere neque nemo consequuntur. Mollitia sint
-              repellendus ex doloribus ullam at culpa corrupti natus numquam
-              distinctio repellat corporis, expedita quidem quia dolor itaque illo
-              modi tempora nesciunt, quae reiciendis. Iure natus minima, fugiat fuga
-              optio incidunt pariatur, sapiente perspiciatis ducimus vero maiores
-              deserunt necessitatibus odit animi explicabo enim aut? Quos aliquam ut
-              voluptates deserunt officiis ab quidem quasi porro cupiditate quo
-              delectus perspiciatis molestiae quaerat, nihil rerum! Amet aperiam
-              culpa fugit vero reprehenderit inventore quidem ipsam iusto ex, cum
-              temporibus, unde sunt quaerat tenetur voluptate qui repellat
-              aspernatur quasi error aliquid, adipisci iste delectus explicabo
-              fugiat? Necessitatibus impedit ab, illum molestiae similique enim
-              repudiandae laudantium, in odit, qui expedita. Optio id recusandae
-              placeat eius maxime! Voluptatibus, cum cupiditate mollitia nobis
-              assumenda suscipit quasi amet, pariatur aspernatur quibusdam itaque.
-              Eveniet vitae dicta, totam quibusdam, unde nam odio numquam voluptates
-              iste ullam iure, ducimus laboriosam minus quaerat? Amet laudantium
-              consectetur asperiores. Temporibus aperiam voluptatibus ullam aliquid.
-              Pariatur necessitatibus temporibus quis laborum magnam a repudiandae
-              reiciendis, voluptate iste incidunt, dicta ex repellendus sint enim
-              sequi, fuga sed voluptatum cumque non itaque veniam totam velit.
-              Officiis, itaque quaerat eos similique adipisci facere, minima illum
-              provident corrupti exercitationem cupiditate omnis unde voluptatem
-              molestiae, culpa fugit? Voluptatem doloremque, animi dicta alias qui
-              numquam aut est porro repellat, asperiores recusandae esse fuga
-              deserunt voluptas vel labore facilis, et velit. Molestiae eligendi,
-              quo minima voluptatum possimus delectus facilis aperiam ex consectetur
-              ipsum velit amet optio praesentium omnis quaerat obcaecati dolores aut
-              dolore rem eaque minus iste mollitia non vel. Autem repellat quod sunt
-              itaque ratione. Esse doloremque non placeat eaque quis optio. Natus
-              temporibus placeat quod nam molestiae omnis, porro commodi alias nobis
-              dolore impedit id odio voluptate vel quis consequuntur voluptatibus
-              perspiciatis. Repellendus quibusdam amet blanditiis. Quo ad velit
-              laboriosam molestiae officia perferendis! Unde, blanditiis laudantium
-              exercitationem odio incidunt est corrupti ut odit enim deserunt
-              ducimus at similique sed iste iusto, quam labore ullam quia veritatis.
-              Porro iure, facere dolore et enim asperiores quia, rem ut recusandae
-              blanditiis, repudiandae ab! Quod eius sint doloremque ad dicta non
-              officia atque a possimus, praesentium consequatur, veniam asperiores
-              tempore sed soluta repudiandae sit! Libero autem laboriosam eaque
-              voluptas veritatis distinctio sed quia maiores dolore cum. Maxime quas
-              beatae officiis alias! Fugiat repellat tempora, laboriosam recusandae
-              culpa incidunt omnis maxime magni laborum facilis iusto quis molestiae
-              eligendi officiis facere commodi asperiores ea rerum ex voluptas
-              fugit? Et officia cupiditate, quidem alias dolore obcaecati delectus
-              ut voluptate, repellat deserunt adipisci quaerat necessitatibus.
+              O position relative, que em português significa relativo, é usado quando queremos alterar a posição de um elemento tendo como referência a posição inicial dele.
+
+              Ele serve para para colocarmos uma margem top em um menu sem que ele altere a margem do header por exemplo. Digamos que tenhamos um menu nav no header, se tentarmos por uma margem top nele ele vai por também no header, para que isso não aconteça utilizamos o relative e a propriedade top, dessa forma conseguimos resolver esse problema. Também podemos por mais de uma propriedade, nesse caso estou usado top e right, dessa forma coloquei uma margem especifa tanto no topo do elemento quanto na direita dele.
             </p>
           </section>
     
           <section id="absolute">
             <h2>absolute</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate,
-              ea consequatur laudantium eos nisi obcaecati nesciunt? Commodi iste
-              soluta similique nisi atque omnis distinctio? Beatae blanditiis error
-              architecto, nam similique laborum dolore ipsam necessitatibus incidunt
-              sit dicta nesciunt provident minus. Architecto minus consectetur autem
-              vel doloremque non laudantium esse deserunt eligendi earum, impedit
-              labore libero recusandae, natus rem necessitatibus, molestias porro
-              possimus dolorum. Maxime aut aperiam eligendi iusto perspiciatis.
-              Quaerat eveniet quia voluptates placeat fugit harum ex quisquam
-              tempore, eum, obcaecati beatae velit molestiae sapiente odio labore
-              sunt, maxime optio facere neque nemo consequuntur. Mollitia sint
-              repellendus ex doloribus ullam at culpa corrupti natus numquam
-              distinctio repellat corporis, expedita quidem quia dolor itaque illo
-              modi tempora nesciunt, quae reiciendis. Iure natus minima, fugiat fuga
-              optio incidunt pariatur, sapiente perspiciatis ducimus vero maiores
-              deserunt necessitatibus odit animi explicabo enim aut? Quos aliquam ut
-              voluptates deserunt officiis ab quidem quasi porro cupiditate quo
-              delectus perspiciatis molestiae quaerat, nihil rerum! Amet aperiam
-              culpa fugit vero reprehenderit inventore quidem ipsam iusto ex, cum
-              temporibus, unde sunt quaerat tenetur voluptate qui repellat
-              aspernatur quasi error aliquid, adipisci iste delectus explicabo
-              fugiat? Necessitatibus impedit ab, illum molestiae similique enim
-              repudiandae laudantium, in odit, qui expedita. Optio id recusandae
-              placeat eius maxime! Voluptatibus, cum cupiditate mollitia nobis
-              assumenda suscipit quasi amet, pariatur aspernatur quibusdam itaque.
-              Eveniet vitae dicta, totam quibusdam, unde nam odio numquam voluptates
-              iste ullam iure, ducimus laboriosam minus quaerat? Amet laudantium
-              consectetur asperiores. Temporibus aperiam voluptatibus ullam aliquid.
-              Pariatur necessitatibus temporibus quis laborum magnam a repudiandae
-              reiciendis, voluptate iste incidunt, dicta ex repellendus sint enim
-              sequi, fuga sed voluptatum cumque non itaque veniam totam velit.
-              Officiis, itaque quaerat eos similique adipisci facere, minima illum
-              provident corrupti exercitationem cupiditate omnis unde voluptatem
-              molestiae, culpa fugit? Voluptatem doloremque, animi dicta alias qui
-              numquam aut est porro repellat, asperiores recusandae esse fuga
-              deserunt voluptas vel labore facilis, et velit. Molestiae eligendi,
-              quo minima voluptatum possimus delectus facilis aperiam ex consectetur
-              ipsum velit amet optio praesentium omnis quaerat obcaecati dolores aut
-              dolore rem eaque minus iste mollitia non vel. Autem repellat quod sunt
-              itaque ratione. Esse doloremque non placeat eaque quis optio. Natus
-              temporibus placeat quod nam molestiae omnis, porro commodi alias nobis
-              dolore impedit id odio voluptate vel quis consequuntur voluptatibus
-              perspiciatis. Repellendus quibusdam amet blanditiis. Quo ad velit
-              laboriosam molestiae officia perferendis! Unde, blanditiis laudantium
-              exercitationem odio incidunt est corrupti ut odit enim deserunt
-              ducimus at similique sed iste iusto, quam labore ullam quia veritatis.
-              Porro iure, facere dolore et enim asperiores quia, rem ut recusandae
-              blanditiis, repudiandae ab! Quod eius sint doloremque ad dicta non
-              officia atque a possimus, praesentium consequatur, veniam asperiores
-              tempore sed soluta repudiandae sit! Libero autem laboriosam eaque
-              voluptas veritatis distinctio sed quia maiores dolore cum. Maxime quas
-              beatae officiis alias! Fugiat repellat tempora, laboriosam recusandae
-              culpa incidunt omnis maxime magni laborum facilis iusto quis molestiae
-              eligendi officiis facere commodi asperiores ea rerum ex voluptas
-              fugit? Et officia cupiditate, quidem alias dolore obcaecati delectus
-              ut voluptate, repellat deserunt adipisci quaerat necessitatibus.
+              Position absolute, ou posicionamento absoluto em português, possui dois comportamentos diferentes. O primeiro é quando o elemento com essa propriedade possui um elemento pai de valor diferente de static. Neste caso, ele terá este elemento pai como referência para ser posicionado. Todo elemento pai que tiver qualquer valor de position, menos o static, será a referência para posicionar o elemento filho absolute!
+
+              O segundo comportamento é quando o elemento com position absolute não tem elemento pai, ou este elemento pai possui position static. Nesta situação, ele irá ignorar estes elementos e será posicionado a partir do canto esquerdo superior do documento, podendo até mesmo sobrepor a eles. Ou seja, é importante utilizar o absolute tendo certeza da necessidade do seu uso (não que isso não seja necessário para os outros valores), pois ele pode desalinhar o layout da página.
+              
+              Por exemplo, digamos que eu queira posicionar um botão no topo e a direita do footer. Nesse caso eu tenho que no footer por position relative, e no botão que estiver no footer eu ponho position absolute e utilizo os valores, top 0 e right 0, dessa forma o botão ficará no topo e na direita do footer.
             </p>
           </section>
     
           <section id="fixed">
             <h2>fixed</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate,
-              ea consequatur laudantium eos nisi obcaecati nesciunt? Commodi iste
-              soluta similique nisi atque omnis distinctio? Beatae blanditiis error
-              architecto, nam similique laborum dolore ipsam necessitatibus incidunt
-              sit dicta nesciunt provident minus. Architecto minus consectetur autem
-              vel doloremque non laudantium esse deserunt eligendi earum, impedit
-              labore libero recusandae, natus rem necessitatibus, molestias porro
-              possimus dolorum. Maxime aut aperiam eligendi iusto perspiciatis.
-              Quaerat eveniet quia voluptates placeat fugit harum ex quisquam
-              tempore, eum, obcaecati beatae velit molestiae sapiente odio labore
-              sunt, maxime optio facere neque nemo consequuntur. Mollitia sint
-              repellendus ex doloribus ullam at culpa corrupti natus numquam
-              distinctio repellat corporis, expedita quidem quia dolor itaque illo
-              modi tempora nesciunt, quae reiciendis. Iure natus minima, fugiat fuga
-              optio incidunt pariatur, sapiente perspiciatis ducimus vero maiores
-              deserunt necessitatibus odit animi explicabo enim aut? Quos aliquam ut
-              voluptates deserunt officiis ab quidem quasi porro cupiditate quo
-              delectus perspiciatis molestiae quaerat, nihil rerum! Amet aperiam
-              culpa fugit vero reprehenderit inventore quidem ipsam iusto ex, cum
-              temporibus, unde sunt quaerat tenetur voluptate qui repellat
-              aspernatur quasi error aliquid, adipisci iste delectus explicabo
-              fugiat? Necessitatibus impedit ab, illum molestiae similique enim
-              repudiandae laudantium, in odit, qui expedita. Optio id recusandae
-              placeat eius maxime! Voluptatibus, cum cupiditate mollitia nobis
-              assumenda suscipit quasi amet, pariatur aspernatur quibusdam itaque.
-              Eveniet vitae dicta, totam quibusdam, unde nam odio numquam voluptates
-              iste ullam iure, ducimus laboriosam minus quaerat? Amet laudantium
-              consectetur asperiores. Temporibus aperiam voluptatibus ullam aliquid.
-              Pariatur necessitatibus temporibus quis laborum magnam a repudiandae
-              reiciendis, voluptate iste incidunt, dicta ex repellendus sint enim
-              sequi, fuga sed voluptatum cumque non itaque veniam totam velit.
-              Officiis, itaque quaerat eos similique adipisci facere, minima illum
-              provident corrupti exercitationem cupiditate omnis unde voluptatem
-              molestiae, culpa fugit? Voluptatem doloremque, animi dicta alias qui
-              numquam aut est porro repellat, asperiores recusandae esse fuga
-              deserunt voluptas vel labore facilis, et velit. Molestiae eligendi,
-              quo minima voluptatum possimus delectus facilis aperiam ex consectetur
-              ipsum velit amet optio praesentium omnis quaerat obcaecati dolores aut
-              dolore rem eaque minus iste mollitia non vel. Autem repellat quod sunt
-              itaque ratione. Esse doloremque non placeat eaque quis optio. Natus
-              temporibus placeat quod nam molestiae omnis, porro commodi alias nobis
-              dolore impedit id odio voluptate vel quis consequuntur voluptatibus
-              perspiciatis. Repellendus quibusdam amet blanditiis. Quo ad velit
-              laboriosam molestiae officia perferendis! Unde, blanditiis laudantium
-              exercitationem odio incidunt est corrupti ut odit enim deserunt
-              ducimus at similique sed iste iusto, quam labore ullam quia veritatis.
-              Porro iure, facere dolore et enim asperiores quia, rem ut recusandae
-              blanditiis, repudiandae ab! Quod eius sint doloremque ad dicta non
-              officia atque a possimus, praesentium consequatur, veniam asperiores
-              tempore sed soluta repudiandae sit! Libero autem laboriosam eaque
-              voluptas veritatis distinctio sed quia maiores dolore cum. Maxime quas
-              beatae officiis alias! Fugiat repellat tempora, laboriosam recusandae
-              culpa incidunt omnis maxime magni laborum facilis iusto quis molestiae
-              eligendi officiis facere commodi asperiores ea rerum ex voluptas
-              fugit? Et officia cupiditate, quidem alias dolore obcaecati delectus
-              ut voluptate, repellat deserunt adipisci quaerat necessitatibus.
+            
+              O position fixed, que em português significa fixo, faz com que o elemento que recebeu esta propriedade não se mova na tela. Mesmo que uma página tenha rolamento (scroll). Ao utilizarmos o rolamento para esquerda e direita, ou para cima e para baixo, o elemento não se move.
+
+              Veja que, quando aplicado bottom: 0% e right: 5%, o elemento está a 0% de distância da parte inferior da tela, ou seja, colado na parte debaixo, e 5% de distância do lado direito.
+
+              A primeira coisa que percebemos ao colocar fixed é que o elemento fica com um tamanho apenas necessário para conter o conteúdo, para alterar isso coloque width 100%.
+
+              podemos utilizar as propriedades bottom, right,top,left para alterarmos aonde esse item fixo ficará posicionado. por exemplo, se queremos colocar um header que fica sempre visível, basta colocarmos a propriedade top: 0. o item ficará no topo do site mas de uma maneira fixa.
+              por padrão se quisermos valores certos basta por 0,no caso no top ele vai ficar exatamente no topo do site, caso fosse right por exemplo ele ficaria a direita.
             </p>
           </section>
     
           <section id="sticky">
             <h2>sticky</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate,
-              ea consequatur laudantium eos nisi obcaecati nesciunt? Commodi iste
-              soluta similique nisi atque omnis distinctio? Beatae blanditiis error
-              architecto, nam similique laborum dolore ipsam necessitatibus incidunt
-              sit dicta nesciunt provident minus. Architecto minus consectetur autem
-              vel doloremque non laudantium esse deserunt eligendi earum, impedit
-              labore libero recusandae, natus rem necessitatibus, molestias porro
-              possimus dolorum. Maxime aut aperiam eligendi iusto perspiciatis.
-              Quaerat eveniet quia voluptates placeat fugit harum ex quisquam
-              tempore, eum, obcaecati beatae velit molestiae sapiente odio labore
-              sunt, maxime optio facere neque nemo consequuntur. Mollitia sint
-              repellendus ex doloribus ullam at culpa corrupti natus numquam
-              distinctio repellat corporis, expedita quidem quia dolor itaque illo
-              modi tempora nesciunt, quae reiciendis. Iure natus minima, fugiat fuga
-              optio incidunt pariatur, sapiente perspiciatis ducimus vero maiores
-              deserunt necessitatibus odit animi explicabo enim aut? Quos aliquam ut
-              voluptates deserunt officiis ab quidem quasi porro cupiditate quo
-              delectus perspiciatis molestiae quaerat, nihil rerum! Amet aperiam
-              culpa fugit vero reprehenderit inventore quidem ipsam iusto ex, cum
-              temporibus, unde sunt quaerat tenetur voluptate qui repellat
-              aspernatur quasi error aliquid, adipisci iste delectus explicabo
-              fugiat? Necessitatibus impedit ab, illum molestiae similique enim
-              repudiandae laudantium, in odit, qui expedita. Optio id recusandae
-              placeat eius maxime! Voluptatibus, cum cupiditate mollitia nobis
-              assumenda suscipit quasi amet, pariatur aspernatur quibusdam itaque.
-              Eveniet vitae dicta, totam quibusdam, unde nam odio numquam voluptates
-              iste ullam iure, ducimus laboriosam minus quaerat? Amet laudantium
-              consectetur asperiores. Temporibus aperiam voluptatibus ullam aliquid.
-              Pariatur necessitatibus temporibus quis laborum magnam a repudiandae
-              reiciendis, voluptate iste incidunt, dicta ex repellendus sint enim
-              sequi, fuga sed voluptatum cumque non itaque veniam totam velit.
-              Officiis, itaque quaerat eos similique adipisci facere, minima illum
-              provident corrupti exercitationem cupiditate omnis unde voluptatem
-              molestiae, culpa fugit? Voluptatem doloremque, animi dicta alias qui
-              numquam aut est porro repellat, asperiores recusandae esse fuga
-              deserunt voluptas vel labore facilis, et velit. Molestiae eligendi,
-              quo minima voluptatum possimus delectus facilis aperiam ex consectetur
-              ipsum velit amet optio praesentium omnis quaerat obcaecati dolores aut
-              dolore rem eaque minus iste mollitia non vel. Autem repellat quod sunt
-              itaque ratione. Esse doloremque non placeat eaque quis optio. Natus
-              temporibus placeat quod nam molestiae omnis, porro commodi alias nobis
-              dolore impedit id odio voluptate vel quis consequuntur voluptatibus
-              perspiciatis. Repellendus quibusdam amet blanditiis. Quo ad velit
-              laboriosam molestiae officia perferendis! Unde, blanditiis laudantium
-              exercitationem odio incidunt est corrupti ut odit enim deserunt
-              ducimus at similique sed iste iusto, quam labore ullam quia veritatis.
-              Porro iure, facere dolore et enim asperiores quia, rem ut recusandae
-              blanditiis, repudiandae ab! Quod eius sint doloremque ad dicta non
-              officia atque a possimus, praesentium consequatur, veniam asperiores
-              tempore sed soluta repudiandae sit! Libero autem laboriosam eaque
-              voluptas veritatis distinctio sed quia maiores dolore cum. Maxime quas
-              beatae officiis alias! Fugiat repellat tempora, laboriosam recusandae
-              culpa incidunt omnis maxime magni laborum facilis iusto quis molestiae
-              eligendi officiis facere commodi asperiores ea rerum ex voluptas
-              fugit? Et officia cupiditate, quidem alias dolore obcaecati delectus
-              ut voluptate, repellat deserunt adipisci quaerat necessitatibus.
+              O position sticky, que em português significa pegajoso ou colado, é parecido com o fixed, porém a sua diferença é que, em vez dele ficar fixo em relação à tela, ele fica fixo em relação ao rolamento da página.
+
+Este tipo de position é utilizado sempre em conjunto das propriedades auxiliares, pois precisa de um posicionamento de referência. Abaixo é possível conferir isso. Aplicamos top: 0%; e left: 0%, que faz com que quando utilizado o rolamento para baixo, o elemento suba, porém quando chega no limite do topo da tela, ele fica “colado”, e o mesmo acontece para o lado esquerdo, quando arrastamos a barra de rolagem para a direita, o elemento chega no limite da tela do lado esquerdo, no entanto, também fica “colado” no limite deste lado da tela. O elemento volta a ocupar a sua posição inicial quando voltamos com a barra de rolagem como antes.
             </p>
           </section>
     

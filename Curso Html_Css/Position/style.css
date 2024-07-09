@@ -1,3 +1,110 @@
 html {
     scroll-behavior: smooth;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+
+header{
+    height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 24px;
+    width: 100%;
+    /*position: fixed;
+    top: 0; /*Coloquei 0 para demonstrar que quero que ele fique no início do topo da página*/
+
+    /*problema gerado com position fixed: o conteúdo do main  fica meio gruodado dentro do header, o conteúdo não fica inteiro, eu consigo resolver com margin, porém buga na hora em que eu tento clicar nos links para fazer o scroll suave.
+    
+    
+    problema gerado com position absolute: o botão do footer ele funciona apenas no pc, não fica responsivo, ele sobrebõe a section, talvez se consiga resolver com media query*/
+
+}
+
+main{
+    background-color: grey;
+    width: 70vw;
+    border: 1px solid rgba(0, 0, 0, 0.438);
+    border-radius: 8px;
+    margin: 20px auto 30px;
+}
+
+main section {
+    padding: 30px;
+}
+
+
+header h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+header nav ul{
+    /*background-color: rgb(17, 78, 136);*/
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    padding: 10px;
+    /*position: relative;
+    top: 100px;
+    right: 200px;*/
+    
+}
+
+
+
+header nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    height: 100px;
+    color: aliceblue;
+    position: relative;
+}
+
+footer p{
+    display: inline;
+    position: relative;
+    top: 50%;
+    left: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.479);
+    border-radius: 8px;
+    background-color: rgb(34, 125, 161);
+    position: absolute;
+    top: -50px;
+    right: 40px;
+}
+
+@media (max-width: 1024px){
+
+    header{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    main{
+        margin-bottom: 100px;
+    }
+}
