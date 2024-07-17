@@ -1,0 +1,45 @@
+
+P:first-child::first-line {
+   color: black;
+   font-weight: bold;
+   font-family: sans-serif;
+} /* caso específico aonde primeiro digo que quero selecionar o primeiro filho,depois digo que quero apenas que a estilização seja feita nesse filho,caso contrário a estilização seria feita em todos os primeiros parágrafos, isso também poderia ser resolvido com a utilização de classes css.*/
+
+p::first-letter{
+   font-weight: bold;
+   font-size: large;
+   color:  rgb(0, 153, 51);
+}
+
+p::before{
+   content: "🐱‍👤";
+}
+
+p::after{
+   content: "✔"; /*para ativar os emojis basta pressionar windows + . ou windows + fn + .*/
+}
+ p{
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: justify;
+    border: 1px solid rgba(0, 0, 0, 0.548);
+    border-radius: 8px;
+ }
+
+ p:first-child{
+    background-color: rgb(29, 133, 230);
+    color: white;
+ }
+
+ p:last-child{
+    background-color: rgb(158, 12, 146);
+    color: white;
+ }
+
+ p:nth-child(2){
+    background-color: rgb(45, 7, 214);
+    color: white;
+ }

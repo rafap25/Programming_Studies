@@ -17,3 +17,29 @@ button:focus {
  button:disabled {
     background-color: #ddd; 
  }
+
+ p{
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: justify;
+    border: 1px solid rgba(0, 0, 0, 0.548);
+    border-radius: 8px;
+ }
+
+ p:first-child{
+    background-color: rgb(29, 133, 230);
+    color: white;
+ }
+
+ p:last-child{
+    background-color: rgb(158, 12, 146);
+    color: white;
+ }
+
+ p:nth-child(2){
+    background-color: rgb(45, 7, 214);
+    color: white;
+ }
