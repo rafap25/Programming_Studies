@@ -7,6 +7,66 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>Formulario de Contato</h1>
+
+    <!--Form - Indica que tudo que estiver dentro faz parte do formulário,possui vários atributos, dentre eles os principais são o action e method
     
+    Action - mostra para aonde esses dados do formulario serão processados,´por exemplo,página de obrigado.
+
+    method - mostra o método desse processamento pode ser post por exemplo, estudar mais disso no futuro.
+    
+    tags de formulário:
+
+    input - é uma tag que se alto fecha,pode ser de vários tipos,email,texto,password para senha e etc
+
+    label - serve para dar um nome para as tags,exemplo de tag label "digite seu nome" ou "digite a senha".É uma tag inline, logo para que o conteúdo fique bem distribuído ponha a label e o input desejado dentro de uma div. Para que funcione ele precisa que você coloque um id no seu elemento input e vincule esse id ao label,perceba que ao abrir a tag label ela apresenta o atributo for, ponha nesse for o nome do id posto no input.
+
+    textarea - cria uma área de texto livre,na qual o usuário pode escrever e enviar para o servidor. Útil para um caso em que o site permita o usuário enviar uma mensagem para declarar um feedback por exemplo,amplamente utilizado em formulários de contato.
+
+    obs: o id deve ser posto em todo elemento que quisermos utilizar, o name também no entanto o name a princípio não será estudado, mas cada elemento deve ter o seu id para que depois possamos manipulá-lo.
+
+    botão - existem várias formas de criar, e existem vários tipos de button, segue os exemplos:
+
+
+ <input type="submit" value="Enviar Mensagem"> 
+ <button type="submit">Enviar</button>
+
+   <input type="button" value="teste"> esse é em caso você queira apenas um botão clicável,que não necessáriamente queira enviar algo mas sim abrir algo por exemplo.
+
+    <button value="teste">teste</button> é a mesma coisa escrito de forma mais simples.
+
+
+    Para evitar envio de formulário sem preenchimento, insira o atributo required nos elementos
+
+ 
+ 
+
+    
+
+
+
+    -->
+
+    <form action="validacao.html">
+        <div>
+            <label for="name">Digite Seu Nome:</label>
+            <input type="text" id="name" required autocomplete="off"/>
+        </div>
+        
+        <div>
+            <label for="email">Digite Seu Email:</label>
+            <input type="email" id="email" required autocomplete="off"/>
+        </div>
+
+        <div>
+            <label for="msg">Mensagem:</label>
+            <textarea id="msg" required></textarea>
+        </div>
+
+        <!--<input type="submit" value="Enviar Mensagem"> -->
+        <button type="submit" id="enviar">Enviar</button>
+        
+      
+    </form>
 </body>
 </html>
