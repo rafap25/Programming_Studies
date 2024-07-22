@@ -23,7 +23,7 @@
 
     textarea - cria uma área de texto livre,na qual o usuário pode escrever e enviar para o servidor. Útil para um caso em que o site permita o usuário enviar uma mensagem para declarar um feedback por exemplo,amplamente utilizado em formulários de contato.
 
-    obs: o id deve ser posto em todo elemento que quisermos utilizar, o name também no entanto o name a princípio não será estudado, mas cada elemento deve ter o seu id para que depois possamos manipulá-lo.
+    obs: o id deve ser posto em todo elemento que quisermos utilizar, o name também no entanto o name é o nome do nosso input, ou seja para vincularmos com o backend também precisamos por um nome no nosso name,geralmente o mesmo nome do id.
 
     botão - existem várias formas de criar, e existem vários tipos de button, segue os exemplos:
 
@@ -38,6 +38,16 @@
 
     Para evitar envio de formulário sem preenchimento, insira o atributo required nos elementos
 
+
+    atributo value - é oque fica dentro do input,as linguagens de progamação como javascript puxam essas propriedades do html para utilização.
+
+    atributo placeholder - ajuda o usuário a entender melhor oque deve ser escrito, por exemplo o email
+
+
+    select - Serve para criar um elemento de selecionar
+
+    option - mostra os valores a serem selecionados
+
  
  
 
@@ -49,22 +59,70 @@
 
     <form action="validacao.html">
         <div>
-            <label for="name">Digite Seu Nome:</label>
-            <input type="text" id="name" required autocomplete="off"/>
+            <label for="username">Digite Seu Nome:</label>
+            <input type="text" id="username" name="username" autocomplete="off"/>
         </div>
         
         <div>
             <label for="email">Digite Seu Email:</label>
-            <input type="email" id="email" required autocomplete="off"/>
+            <input type="email" id="email" name="email" placeholder="teste@hotmail.com" required autocomplete="off"/>
         </div>
 
         <div>
+            <label for="password">Digite Sua Senha:</label>
+            <input type="password" id="password" name="password" required autocomplete="off"/>
+        </div>
+
+        <div>
+            <label for="search">CEP:</label>
+            <input type="search" id="search" name="search" placeholder="99999999" required autocomplete="off"/><!--Permite um input de pesquisa  -->
+        </div>
+
+        <div>
+            <label for="tel">Telefone:</label>
+            <input type="tel" id="tel" name="tel"  placeholder="(99) 999999999" autocomplete="off"/><!--é igual input de texto mas semânticamente espera um telefone  -->
+        </div>
+
+        <div>
+            <label for="job-type"></label>
+            <select name="job-type" id="job-type"> <!--Geralmente se vincula o for da label com o id do select
+                
+                obs: procure utilizar as coisas em minusculo e sem acento,pois isso facilita na hora da manipulação, além disso no javascript por exemplo temos ferramentas para colocar a primeira letra maíuscula-->
+                <option value="selecione" selected >selecione</option> <!--Essa propriedade nos permite deixar uma escolha padrão,geralmente nesse tipo de seleção o selecione sempre é o inicial-->
+                <option value="presencial">presencial</option>
+                <option value="remoto">remoto</option>
+                <option value="hibrido">hibrido</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="habilidades"></label> 
+            <select name="habilidades" id="habilidades" multiple> <!--o atributo multiple nos permite selecionar vários itens de uma vez, para isso o usuário terá que clicar junto com o ctrl.
+                
+                podemos também utilizar um grupo,para isso basta englobar nossas options dentro de um optgroup,não podemos esquecer de dar um título a ele utilizando o atributo label--> 
+               
+                <optgroup label="frontend">
+                    <option value="html">html</option>
+                    <option value="css">css</option>
+                    <option value="javascript">javascript</option>
+                </optgroup>
+
+                <optgroup label="backend">
+                    <option value="nodejs">nodejs</option>
+                    <option value="mongodb">mongodb</option>
+                    <option value="python">python</option>
+                </optgroup>
+            </select>
+        </div>
+
+
+        <div>
             <label for="msg">Mensagem:</label>
-            <textarea id="msg" required></textarea>
+            <textarea id="msg" name="msg" required></textarea>
         </div>
 
         <!--<input type="submit" value="Enviar Mensagem"> -->
-        <button type="submit" id="enviar">Enviar</button>
+        <button type="submit" id="enviar" name="enviar">Enviar</button>
         
       
     </form>

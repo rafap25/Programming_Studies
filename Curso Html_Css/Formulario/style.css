@@ -32,40 +32,54 @@ form{
     font-weight: bold;
 }
 
-label,input,textarea {
+label,input,textarea,select {
     display: block;
     padding: 8px 8px;
     width: 100%;
+    border: 1px solid #222222a6;
+    border-radius: 4px; 
 }
+
 
 label {
     padding-bottom: 10px;
 }
 
 
-input,textarea,button{
-    border: 1px solid #222222a6;
-    border-radius: 4px; 
-}
 
-input:focus, textarea:focus{
+
+input:focus, textarea:focus, select:focus{
     outline-color: #837c7c8f;
     outline-offset: 1px;/*é o distanciamento entre a borda o elemento, se a cor do outline for preta existe um problema,pois esse espaçamento fica branco por padrão.*/
 }
 
+textarea{
+    /*min-height: 100px;
+    min-width: 70%;
+    max-width: 100%;Para evitar que o textarea possa sair do form ou que fique muito pequeno,geralmente é uma largura fixa de 100% mas essa vou deixar essa para entendimento de estudo*/
+    min-height: 100px;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+
 button {
+    border: 2px solid #00000070;
+    border-radius: 4px; 
+    padding: 8px 8px;
     background-color: purple;
     color: white;
-    height: 2rem;
     cursor: pointer;
     transition: 0.2s;
 }
 
 
 
+
+
 button:focus,button:hover{
 
-    outline-width: thin;/*significa 1px*/
+    outline-width: 0;/*significa 0px*/
     outline-color: rgb(150, 9, 150); 
     background-color: rgb(134, 23, 134);
    
