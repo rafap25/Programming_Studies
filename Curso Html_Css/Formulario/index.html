@@ -48,6 +48,10 @@
 
     option - mostra os valores a serem selecionados
 
+    datalist - uma lista de opções filtrada, a lógica é bem parecida com o select,também se utiliza options para os itens da lista, mas precisamos criar um input para utilizar essa lista e vincular a ela o id da nossa datalist, para isso usamos o atributo list.
+
+
+    checkbox - uma lista de opções que nos permite selecionar uma delas, por exemplo "sim" ou "não".
  
  
 
@@ -115,11 +119,38 @@
             </select>
         </div>
 
+        <div>
+            <label for="language"></label>
+            <input type="text" id="language" name="language" list="languages-list">
+            <datalist id="languages-list">
+                <option value="html">html</option>
+                <option value="css">css</option>
+                <option value="javascript">javascript</option>
+                <option value="nodejs">nodejs</option>
+                <option value="mongodb">mongodb</option>
+                <option value="python">python</option>
+            </datalist>
+        </div>
+
+        <div>
+            <label>Já trabalhou nessa empresa?</label>
+            <div class="flexCheckboxContainer"><!--Precisamos desse container para estilizar o nosso checkbox mínimamente,a príncipio utilizei flexbox para resolver, podemos perceber que nós conseguimos selecionar tanto um quanto outro ao mesmo tempo,para resolver esse problema precisaremos do auxílio do javascript.-->
+                <input type="checkbox" name="SIM" id="SIM" value="SIM"> <!--Não esquecer do value,pois senão o valor não é enviado-->
+                <label for="SIM">SIM</label>
+            </div>
+        </div>
+
+        <div class="flexCheckboxContainer">
+            <input type="checkbox" name="NÃO" id="NÃO" value="NÃO" checked> <!--Podemos utilizar o checked para pré-selecionar uma opção-->
+            <label for="NÃO">NÃO</label>
+        </div>
+
 
         <div>
             <label for="msg">Mensagem:</label>
             <textarea id="msg" name="msg" required></textarea>
         </div>
+        
 
         <!--<input type="submit" value="Enviar Mensagem"> -->
         <button type="submit" id="enviar" name="enviar">Enviar</button>
