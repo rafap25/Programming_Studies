@@ -51,7 +51,9 @@
     datalist - uma lista de opções filtrada, a lógica é bem parecida com o select,também se utiliza options para os itens da lista, mas precisamos criar um input para utilizar essa lista e vincular a ela o id da nossa datalist, para isso usamos o atributo list.
 
 
-    checkbox - uma lista de opções que nos permite selecionar uma delas, por exemplo "sim" ou "não".
+    checkbox - uma lista de opções que nos permite selecionar uma delas ou varias delas, por exemplo "html","css","js" e etc.
+
+    radio - um botão que te permite escolher entre opções, geralmente "sim", ou "não".
  
  
 
@@ -133,16 +135,39 @@
         </div>
 
         <div>
-            <label>Já trabalhou nessa empresa?</label>
-            <div class="flexCheckboxContainer"><!--Precisamos desse container para estilizar o nosso checkbox mínimamente,a príncipio utilizei flexbox para resolver, podemos perceber que nós conseguimos selecionar tanto um quanto outro ao mesmo tempo,para resolver esse problema precisaremos do auxílio do javascript.-->
-                <input type="checkbox" name="SIM" id="SIM" value="SIM"> <!--Não esquecer do value,pois senão o valor não é enviado-->
-                <label for="SIM">SIM</label>
+            <label>Suas Tecnologias Favoritas</label>
+            <div class="flexContainer"><!--Precisamos desse container para estilizar o nosso checkbox mínimamente,a príncipio utilizei flexbox para resolver, podemos perceber que nós conseguimos selecionar tanto um quanto outro ao mesmo tempo,para resolver esse problema precisaremos do auxílio do javascript.-->
+                <input type="checkbox" name="HTML" id="HTML" value="HTML"> <!--Não esquecer do value,pois senão o valor não é enviado-->
+                <label for="HTML">HTML</label>
             </div>
         </div>
 
-        <div class="flexCheckboxContainer">
-            <input type="checkbox" name="NÃO" id="NÃO" value="NÃO" checked> <!--Podemos utilizar o checked para pré-selecionar uma opção-->
-            <label for="NÃO">NÃO</label>
+        <div class="flexContainer">
+            <input type="checkbox" name="Css" id="Css" value="Css"> 
+            <label for="Css">Css</label>
+        </div>
+
+        <div class="flexContainer">
+            <input type="checkbox" name="javascript" id="javascript" value="javascript" checked> <!--Podemos utilizar o checked para pré-selecionar uma opção-->
+            <label for="javascript">javascript</label>
+        </div>
+
+        <div class="flexContainer">
+            <input type="checkbox" name="React" id="React" value="React"> 
+            <label for="React">React</label>
+        </div>
+
+        <div>
+            <label>Já trabalhou nessa empresa?</label>
+            <div class="flexContainer">
+                <input type="radio" name="SIM" id="SIM" value="SIM">
+                <label for="SIM">SIM</label>
+            </div>
+
+            <div class="flexContainer">
+                <input type="radio" name="NÃO" id="NÃO" value="NÃO">
+                <label for="NÃO">NÃO</label>
+            </div>
         </div>
 
 

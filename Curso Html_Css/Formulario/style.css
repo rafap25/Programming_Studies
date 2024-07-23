@@ -39,7 +39,7 @@ label,input,textarea,select {
     border: 1px solid #222222a6;
     border-radius: 4px; 
 }
-.flexCheckboxContainer{
+.flexContainer{
     display: flex;
     width: 16px;
 }
