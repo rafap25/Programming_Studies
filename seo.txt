@@ -15,6 +15,22 @@ observações
 - O Google não está preocupado com a quantidade de texto que tem em sua página
 - O Google não reconhece um conteúdo bom sem a ajuda do usuário
 
+ferramentas de melhoria de seo:
+
+- webDeveloper: extensão que mostra a semântica do html do site, se está bem feito
+
+
 
 Aula 1 - Entendendo o Google e o SEO
+
+introdução - o google não se importa com o design do seu site, quem se importa com isso é o usuário.Digamos que pesquisamos sobre carro camaro amarelo no google imagens, várias imagens aparecem,se pegarmos a primeira imagem entendemos que é a imagem que utiliza aquela palavra chave "camaro amarelo carro" que mais rankeou no google, mas porque? Simples,porque ao postar aquela imagem, outros sites utilizaram a mesma imagem em seus sites, e isso rankeou essa imagem no google pois mais sites utilizam ela. Agora mas apesar de vários sites postarem em seus sites a mesma imagem, o google sabe quem postou primeiro,logo a prioridade é dele.Na teoria é isso,no entanto precisamos também ter cuidado com as tags html do nosso site!
+
+- Se um site que copiou sua imagem tiver as tags html, se ele se preocupa com os atributos "alt", então esse site possivelmente pode te passar no rankeamento do google caso você não tenha feito o mesmo.
+
+- Devemos dar muita importância para um html semântico, os h1,h2,h3 e etc... por exemplo,nós sabemos que devemos ter um h1 por página,logo, devemos por a nossa palavra chave principal no h1, h2 pois geralmente são tags utilizadas mais para títulos mais importantes!
+
+- Não podemos exagerar no uso da palavra chave,pois fica algo incômodo para o leitor!
+
+
+
 
