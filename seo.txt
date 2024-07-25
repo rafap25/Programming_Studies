@@ -1,0 +1,20 @@
+Tópicos do Curso 
+
+- Entendendo o Google e o SEO
+- Análise de publico alvo
+- Análise de palavra chave
+- Ferramentas
+- Análise de concorrência
+- Planejamento Estratégico de Conteúdo
+- Escrevendo o HTML de forma correta
+- Implementações de SEO - na prática
+
+observações 
+
+- SEO não é uma competição de quem informa mais palavra-chave no Conteúdo
+- O Google não está preocupado com a quantidade de texto que tem em sua página
+- O Google não reconhece um conteúdo bom sem a ajuda do usuário
+
+
+Aula 1 - Entendendo o Google e o SEO
+
