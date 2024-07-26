@@ -1,0 +1,47 @@
+
+SOBRE ANUNCIOS
+
+Cliques em anúncios do Google precisam ser resultado do interesse genuíno dos usuários. É expressamente proibido usar qualquer método que gere cliques ou impressões nos seus anúncios do Google de forma artificial. Isso inclui, sem limitação, cliques ou impressões manuais repetidos, ferramentas automatizadas de geração de cliques e impressões e o uso de robôs ou softwares fraudulentos. É proibido clicar nos próprios anúncios, seja qual for o motivo.
+
+COMPORTAMENTO DOS SITES
+Os sites que mostram anúncios do Google devem ser fáceis de navegar. Os sites não podem mudar as preferências dos usuários, redirecionar para sites indesejados, iniciar downloads, incluir malware ou conter pop-ups ou pop-unders que atrapalham a navegação.
+
+Navegação enganosa no site
+Os editores não podem usar métodos de implementação enganosos com anúncios que parecem ser links de menu, navegação ou download para gerar cliques ou visualizações. Lembre-se de que todos os editores são responsáveis por garantir que a própria implementação de anúncios obedeça às políticas de posição do anúncio.
+
+Isso inclui, sem limitação:
+
+declarações falsas sobre conteúdo de streaming ou disponível para download;
+links para conteúdo inexistente;
+redirecionamento de usuários para páginas da Web irrelevantes ou enganosas;
+outros tipos de navegação criados para enganar os usuários intencionalmente;
+páginas em que os anúncios são posicionados em áreas destinadas à navegação.
+
+Isso vale para o anunciante,caso dê para deletar esse tipo de anúncio do site delete.
+
+
+ESCOLHA O LOCAL DOS SEUS ANUNCIOS COM CUIDADO
+
+Os editores nunca devem usar truques ou práticas enganosas para acionar cliques acidentais em anúncios. Os anúncios precisam estar posicionados adequadamente no site, longe de elementos interativos e não podem copiar o conteúdo ao redor nem mostra títulos enganosos.
+Mantenha um espaço adequado entre os anúncios e os controles da página.
+ 
+USE O GOOGLE ANALYTICS
+
+Se você ainda não usa o Google Analytics, recomendamos instalá-lo para entender melhor e otimizar o tráfego do site. Saber a origem do tráfego é um grande passo para aproveitar melhor seu site. Saiba mais sobre o Google Analytics. Se preferir, assista a vídeos úteis no canal do Google Analytics no YouTube.
+
+
+
+Para participar do Google AdSense e manter sua conta em situação regular, você precisa conhecer e seguir nossas políticas. Destacamos a seguir algumas delas. Trata-se apenas de uma visão geral, então leia completamente as políticas do programa Google AdSense.
+
+- Não clique nos seus próprios anúncios.
+- Não peça que outras pessoas cliquem nos seus anúncios.
+- Não inclua conteúdo que viole as políticas para editores do Google.
+- Não modifique o código do AdSense.
+- Siga as políticas de spam para a Pesquisa Google na Web.
+- Proporcione uma boa experiência ao usuário.
+- Não inclua mais anúncios do que conteúdo em nenhuma página.
+- Não coloque imagens perto de anúncios de um modo que confunda os usuários, fazendo-os pensar que elas estão associadas aos anúncios.
+
+
+
+

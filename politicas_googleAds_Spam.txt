@@ -1,0 +1,194 @@
+Políticas de spam para a Pesquisa Google na Web
+
+bookmark_border
+Nossas políticas de spam ajudam a proteger os usuários e melhorar a qualidade dos resultados da pesquisa. Para se qualificar e aparecer nos resultados da Pesquisa Google (páginas da Web, imagens, vídeos, conteúdo de notícias ou outro material que o Google encontrar na Web), o conteúdo não pode violar as políticas gerais da Pesquisa Google nem as políticas de spam listadas nesta página. Estas políticas se aplicam a todos os resultados da pesquisa na Web, incluindo os relacionados às propriedades do Google.
+
+Usamos sistemas automatizados e, se necessário, revisão humana para detectar conteúdo e comportamentos que violam a política e que podem resultar em uma ação manual. Os sites que violam nossas políticas podem ter uma classificação mais baixa ou não aparecer nos resultados.
+
+Caso você acredite que um site viola as políticas de spam do Google, preencha um relatório de qualidade da pesquisa. Nosso foco é resolver os problemas de forma automatizada e escalonável, e vamos usar esses relatórios para melhorar nossos sistemas de detecção de spam.
+
+Nossas políticas abrangem formas comuns de spam, mas o Google pode tomar medidas contra qualquer tipo detectado.
+
+Técnicas de cloaking
+Cloaking significa apresentar diferentes conteúdos para os usuários e os mecanismos de pesquisa com a intenção de manipular as classificações de pesquisa e enganar os usuários. Exemplos de cloaking:
+
+Mostrar uma página sobre destinos de viagem para os mecanismos de pesquisa e exibir uma página sobre medicamentos com desconto para os usuários
+Inserir texto ou palavras-chave em uma página somente quando o user agent que solicita a página for um mecanismo de pesquisa, não um usuário que visita o site
+Caso o site use tecnologias que os mecanismos de pesquisa têm dificuldade para acessar, como JavaScript ou imagens, consulte nossas recomendações para tornar o conteúdo acessível aos mecanismos e aos usuários sem usar técnicas de cloaking.
+
+Hackers costumam usar essas técnicas para que os proprietários de um site não percebam que ele foi invadido. Leia mais sobre como corrigir sites invadidos e evitar ataques de hackers.
+
+Se você operar um paywall ou um mecanismo de acesso a conteúdo, isso não vai ser considerado cloaking se o Google puder ver todo o conteúdo que está por trás do paywall como qualquer pessoa com acesso ao material controlado e se você seguir nossas orientações gerais sobre amostragem flexível.
+
+Entradas
+"Entradas" são sites ou páginas criadas para a classificação em consultas de pesquisa específicas e semelhantes. Elas levam os usuários a páginas intermediárias que não são tão úteis quanto o destino final. Exemplos de entradas:
+
+Ter vários sites com pequenas variações no URL e na página inicial para maximizar o alcance em qualquer consulta específica
+Ter várias páginas ou muitos nomes de domínio segmentados por regiões ou cidades específicas que direcionam os usuários a uma página
+Páginas geradas para direcionar os visitantes à parte utilizável ou relevante dos seus sites
+Páginas consideravelmente semelhantes e mais próximas aos resultados de pesquisa do que, por exemplo, uma hierarquia claramente definida e navegável
+Abuso de domínio expirado
+Nesse caso, um nome de domínio expirado é comprado e reaproveitado principalmente para manipular as classificações de pesquisa ao hospedar conteúdo que oferece pouco ou nenhum valor aos usuários. Exemplos ilustrativos incluem, entre outros:
+
+Conteúdo afiliado em um site usado anteriormente por um órgão governamental
+Produtos médicos comerciais à venda em um site usado anteriormente por uma instituição de caridade médica sem fins lucrativos
+Conteúdo relacionado a cassinos em um antigo site de escola primária
+Conteúdo invadido
+O conteúdo invadido é qualquer conteúdo colocado em um site sem permissão, devido a vulnerabilidades na segurança do site. Esse conteúdo oferece aos usuários resultados de baixa qualidade e pode instalar conteúdo malicioso nas máquinas. Veja alguns exemplos de invasão:
+
+Injeção de código: quando os hackers invadem seu site, eles podem tentar inserir código malicioso nas páginas. Normalmente, eles injetam JavaScript malicioso diretamente no site ou em iframes.
+Injeção de páginas: às vezes, devido a falhas de segurança, os hackers conseguem adicionar novas páginas de conteúdo malicioso ou com spam ao site. Geralmente, essas páginas são projetadas para manipular mecanismos de pesquisa ou fazer tentativas de phishing. Talvez as páginas antigas não tenham sinais de invasão, mas essas novas podem prejudicar os visitantes do site ou o desempenho dele nos resultados da pesquisa.
+Injeção de conteúdo: os hackers também podem tentar manipular sutilmente as páginas no seu site. Eles fazem isso para adicionar conteúdo que os mecanismos de pesquisa conseguem acessar, mas que talvez você e seus usuários tenham mais dificuldades de encontrar. Alguns exemplos são a inclusão de texto ou links ocultos em uma página usando CSS ou HTML, assim como algumas mudanças mais complexas, como técnicas de cloaking.
+Redirecionamentos: os hackers podem injetar no seu site código malicioso que redireciona alguns usuários para páginas nocivas ou com spam. Às vezes, o tipo de redirecionamento depende do referenciador, user agent ou dispositivo. Por exemplo, talvez clicar em um URL nos resultados da Pesquisa Google redirecione você para uma página suspeita, mas não haja redirecionamento se você digitar o URL diretamente no navegador.
+Veja nossas dicas para corrigir sites invadidos e evitar ataques de hackers.
+
+Texto e links ocultos 
+Texto ou links ocultos são o ato de colocar conteúdo em uma página apenas para manipular os mecanismos de pesquisa sem que seja visível para visitantes humanos. Exemplos de texto ou links ocultos que violam nossas políticas:
+
+Usar texto com fonte branca em fundo branco
+Ocultar texto atrás de uma imagem
+Usar CSS para posicionar texto fora da tela
+Definir o tamanho ou a opacidade da fonte como 0
+Ocultar um link vinculando apenas um pequeno caractere, por exemplo, um hífen no meio de um parágrafo
+Atualmente, há vários elementos de design da Web que mostram e ocultam conteúdo de maneira dinâmica para melhorar a experiência do usuário. Estes elementos não violam nossas políticas:
+
+Accordion ou conteúdo com guias que alterna entre ocultar e mostrar conteúdo adicional
+Apresentação de slides ou controle deslizante que alterna entre várias imagens ou parágrafos de texto
+Dica ou texto semelhante que mostra conteúdo adicional quando os usuários interagem com um elemento
+Texto que é acessível apenas para leitores de tela e serve para melhorar a experiência dos usuários deles
+Excesso de palavras-chave
+O excesso de palavras-chave é a prática de preencher uma página da Web com palavras-chave ou números para manipular a classificação nos resultados da Pesquisa Google. Muitas vezes, essas palavras-chave aparecem em uma lista ou um grupo de maneira não natural ou fora de contexto. Exemplos de excesso de palavras-chave incluem os seguintes:
+
+Listas de números de telefone sem valor substancial
+Blocos de texto que listam cidades e regiões em que uma página da Web está tentando ser classificada
+Repetição das mesmas palavras ou frases com tanta frequência que acabe não soando natural, por exemplo:
+Crédito ilimitado na app store. Muitos sites alegam oferecer crédito na app store por US$ 0, mas todos são falsos e sempre confundem os usuários em busca de créditos ilimitados na app store. Você pode receber créditos ilimitados na app store diretamente neste site. Acesse nossa página de crédito ilimitado na app store e receba hoje mesmo.
+Spam por links
+O Google usa links como um fator para determinar a relevância das páginas da Web. Qualquer link criado para manipular as classificações nos resultados da Pesquisa Google pode ser considerado spam. Isso inclui comportamentos que manipulam links para seu site ou links que direcionam os usuários a páginas externas. Veja alguns exemplos:
+
+Comprar ou vender links para fins de classificação. Isso inclui o seguinte:
+Pagar por links ou postagens que contêm links
+Trocar bens ou serviços por links
+Enviar um produto a um usuário em troca de uma avaliação por escrito com um link
+Fazer muitas trocas de links ("Adicione um link para mim, e eu adiciono um link para você") ou criar páginas de parceiros com o objetivo único de criar links cruzados
+Usar programas ou serviços automatizados para criar links no seu site
+Exigir um link nos Termos de Serviço, contratos ou acordos semelhantes sem que o proprietário do conteúdo de terceiros tenha a opção de qualificar o link externo
+Anúncios ou links de texto que não bloqueiam o crédito de classificação
+Publieditoriais ou publicidade nativa em que o pagamento é recebido por artigos com links aprovados nos créditos de classificação ou links com texto âncora otimizado em artigos, postagens de convidados ou comunicados à imprensa distribuídos em outros sites. Por exemplo:
+Há muitos anéis de noivado por aí. Antes de pedir seu amor em casamento, é preciso escolher a melhor aliança. E não se esqueça de comprar flores e um vestido de noiva!
+Links de baixa qualidade para sites de diretório ou favoritos
+Links cheios de palavras-chave, ocultos ou de baixa qualidade incorporados em widgets distribuídos em vários sites
+Links distribuídos de maneira ampla nos rodapés ou modelos de vários sites
+Comentários de fórum com links otimizados na postagem ou assinatura, por exemplo:
+Obrigado, essa é uma ótima informação!
+— Paulo
+pizza do paulo pizza rio de janeiro melhor pizza do rio de janeiro
+Criar conteúdo de baixo valor principalmente para manipular indicadores de vinculação e classificação
+O Google entende que comprar e vender links é uma prática econômica normal na Web, para fins de publicidade e patrocínio. Eles não violam nossas políticas desde que sejam qualificados com um valor de atributo rel="nofollow" ou rel="sponsored" para a tag <a>.
+
+Tráfego gerado por máquina
+O tráfego gerado por máquina consome recursos e interfere na nossa capacidade de melhor atender os usuários. Veja alguns exemplos de tráfego automatizado:
+
+Envio de consultas automáticas ao Google
+Raspagem de dados de resultados para verificar a classificação ou outros tipos de acesso automatizado à Pesquisa Google realizados sem permissão expressa
+Essas atividades violam nossas políticas de spam e os Termos de Serviço do Google.
+
+Malware e comportamentos maliciosos
+O Google verifica sites para ver se eles hospedam malware ou software indesejado que prejudica a experiência do usuário.
+
+Malware é qualquer software ou aplicativo projetado especificamente para causar danos a computadores, dispositivos móveis, usuários ou outro software. Além disso, o malware apresenta um comportamento malicioso que pode incluir a instalação de software sem o consentimento do usuário e a instalação de software nocivo, como vírus. Às vezes, os proprietários de sites nem percebem que estão disponibilizando para download arquivos considerados malware, por isso esses binários talvez sejam hospedados inadvertidamente.
+
+Software indesejado é um aplicativo para dispositivos móveis ou arquivo executável que tem comportamento enganoso, inesperado ou que afeta negativamente a experiência de navegação ou computação do usuário. Por exemplo, software que muda a página inicial ou altera outras configurações do navegador de modo indesejado ou apps que vazam informações pessoais e privadas sem avisar.
+
+Os proprietários precisam verificar se os sites não violam a Política de software indesejado e seguir nossas diretrizes.
+
+Funcionalidade enganosa 
+Os proprietários precisam criar sites com conteúdo de alta qualidade e funcionalidades úteis que beneficiem os usuários. No entanto, algumas pessoas pretendem manipular a classificação de pesquisa criando sites com funcionalidades e serviços enganosos que induzem os usuários a pensar que vão conseguir acessar conteúdos ou serviços que, na verdade, não podem. Exemplos de funcionalidades enganosas:
+
+Um site com um gerador falso que alega oferecer crédito na app store, mas não faz isso
+Um site que alega oferecer determinadas funcionalidades (por exemplo, mesclagem de PDFs, timer de contagem regressiva e serviço de dicionário on-line), mas leva intencionalmente os usuários a anúncios enganosos em vez de proporcionar esses serviços
+Abuso de conteúdo em escala
+Abuso de conteúdo em escala ocorre quando muitas páginas são geradas com o objetivo principal de manipular as classificações da pesquisa, e não ajudar os usuários. Essa prática abusiva costuma criar grandes quantidades de conteúdo não original que oferece pouco ou nenhum valor aos usuários, independentemente de como ele é criado.
+
+Estes são alguns exemplos de abuso de conteúdo em escala:
+
+Usar ferramentas de IA generativa ou outras ferramentas semelhantes para gerar muitas páginas sem agregar valor para os usuários
+Cópia de feeds, resultados da pesquisa ou outro conteúdo para gerar muitas páginas (inclusive por transformações automáticas como sinônimos, tradução ou outras técnicas de ofuscação) em que pouco valor é oferecido aos usuários
+Agrupamentos ou combinações de conteúdo de diversas páginas da Web sem adição de valor
+Criar vários sites com a intenção de ocultar a natureza dimensionada do conteúdo
+Criação de várias páginas em que o conteúdo faz pouco ou nenhum sentido para o leitor, mas contém palavras-chave de pesquisa
+Se você hospeda esse tipo de conteúdo no seu site, exclua-o da Pesquisa.
+
+Conteúdo copiado
+Alguns proprietários criam sites com base em conteúdo retirado ("copiado") de outros sites, que geralmente têm uma reputação melhor. O conteúdo copiado, mesmo de fontes de alta qualidade, pode não oferecer valor agregado aos usuários sem a oferta de serviços ou conteúdos adicionais úteis pelo site. Isso também pode ser uma violação de direitos autorais. Um site talvez seja rebaixado se recebermos um número significativo de pedidos válidos de remoção legal. Exemplos de cópia abusiva:
+
+Sites que copiam e republicam conteúdo de outros sites sem adicionar conteúdo original ou valor, ou nem mesmo citar a fonte original
+Sites que copiam o conteúdo de outros sites, fazem pequenas modificações (por exemplo, usando sinônimos ou técnicas automatizadas) e o publicam novamente
+Sites que reproduzem feeds de conteúdo de outros sites sem oferecer qualquer tipo de benefício ao usuário
+Sites voltados à incorporação ou compilação de conteúdo, como vídeos, imagens ou mídias diversas de outros sites, sem acrescentar valor significativo para o usuário
+Redirecionamentos não autorizados
+Redirecionar é o ato de enviar um visitante a um URL diferente do que foi solicitado inicialmente. O redirecionamento não autorizado mostra conteúdo diferente aos usuários e mecanismos de pesquisa ou mostra aos usuários conteúdo inesperado que não atende às necessidades originais. Exemplos de redirecionamentos não autorizados:
+
+Mostrar aos mecanismos de pesquisa um tipo de conteúdo e redirecionar os usuários para algo totalmente diferente
+Exibir páginas normais para usuários de computadores e redirecionar usuários de dispositivos móveis para um domínio de spam completamente diferente
+Embora o redirecionamento não autorizado seja um tipo de spam, há vários motivos legítimos para redirecionar um URL para outro. Exemplos de redirecionamentos legítimos:
+
+Mudar seu site para um novo endereço
+Consolidar várias páginas em uma
+Redirecionar usuários para uma página interna após o login
+Ao avaliar se um redirecionamento é não autorizado, confira se ele visa enganar os usuários ou os mecanismos de pesquisa. Saiba mais sobre como usar redirecionamentos no seu site de maneira correta.
+
+Abuso de reputação do site
+O abuso de reputação do site ocorre quando páginas de terceiros são publicadas com pouca ou nenhuma supervisão ou envolvimento do site primário, com o objetivo de manipular a classificação da pesquisa aproveitando os indicadores de classificação do site primário. Essas páginas de terceiros incluem páginas patrocinadas, de publicidade, de parceiros ou outras páginas de terceiros que normalmente são independentes da finalidade principal do site host ou são produzidas sem supervisão ou envolvimento do host, e oferecem pouco ou nenhum valor para os usuários.
+
+Exemplos ilustrativos de abuso da reputação do site incluem, sem limitação:
+
+Um site educacional que hospeda uma página sobre avaliações de empréstimos consignados escritas por um terceiro que distribui a mesma página para outros sites na Web, com o objetivo principal de manipular classificações de pesquisa
+Um site médico que hospeda uma página de terceiros sobre "melhores cassinos", projetada principalmente para manipular as classificações de pesquisa, com pouco ou nenhum envolvimento do site médico
+Um site de avaliação de filmes que hospeda páginas de terceiros sobre temas que podem confundir os usuários em um site de avaliação de filmes (como "maneiras de comprar seguidores em sites de mídia social", os "melhores sites de cartomante" e os "melhores serviços de redação"), que têm o objetivo de manipular as classificações de pesquisa
+Um site esportivo que hospeda uma página escrita por um terceiro sobre "avaliações de suplementos para treinos", em que a equipe editorial do site tem pouco ou nenhum envolvimento com o conteúdo, e a finalidade principal de hospedar a página é manipular Classificações de pesquisa
+um site de notícias que hospeda cupons fornecidos por terceiros com pouca ou nenhuma supervisão ou envolvimento do site de hospedagem e tem como objetivo principal manipular as classificações de pesquisa
+Se você estiver hospedando páginas que violam esta política, exclua o conteúdo de terceiros da indexação da Pesquisa.
+
+Confira alguns exemplos que NÃO são considerados abusos de reputação do site:
+
+Sites de serviços de comunicação eletrônica ou de comunicados à imprensa
+Publicações de notícias que divulgaram conteúdo de outras publicações de notícias
+Sites projetados para permitir conteúdo gerado pelo usuário, como um site de fórum ou seções de comentários
+Colunas, artigos de opinião, artigos e outros trabalhos de natureza editorial em que haja envolvimento ou revisão do site host
+Conteúdo de terceiros (por exemplo, páginas do tipo "advertorial" ou "publicidade nativa") produzido com um envolvimento próximo do site host, com o objetivo de compartilhar conteúdo diretamente com os leitores (por exemplo, por meio de promoção na própria publicação), em vez de hospedar o conteúdo para manipular as classificações da pesquisa
+Incorporar blocos de anúncios de terceiros em uma página ou usar links de afiliados em toda a página, com links tratados adequadamente
+Cupons listados com um envolvimento próximo do site de hospedagem
+Páginas afiliadas sem valor agregado
+Esse tipo de página apresenta links de produtos afiliados em que as descrições e as avaliações são copiadas diretamente do comerciante original, sem conteúdo original nem valor agregado.
+
+As páginas afiliadas podem ser consideradas sem valor agregado se fizerem parte de um programa que distribui o próprio conteúdo em uma rede de afiliados sem oferecer valor adicional. Muitas vezes, eles aparentam ser sites comuns ou criados com base em modelos que exibem conteúdo duplicado igual ou similar dentro do mesmo site ou em diversos domínios ou idiomas. Se uma página de resultados da Pesquisa retorna vários desses sites, todos com o mesmo conteúdo, as páginas afiliadas sem valor agregado tornam a experiência do usuário frustrante.
+
+Nem todo site que participa de um programa de afiliados é um afiliado sem valor agregado. Bons sites afiliados agregam valor oferecendo conteúdo ou recursos significativos. Exemplos de boas páginas afiliadas incluem informações adicionais sobre preço, avaliações originais de produtos, testes e classificações rigorosos, navegação em produtos ou categorias e comparações de produtos.
+
+Spam gerado pelo usuário
+Esse tipo de spam é um conteúdo adicionado a um site por usuários em um canal destinado a conteúdo de usuários. Muitas vezes, os proprietários de sites não estão cientes do conteúdo com spam. Exemplos de conteúdo com spam gerado pelo usuário:
+
+Contas com spam sobre serviços de hospedagem disponíveis para qualquer pessoa
+Postagens com spam em conversas de fórum
+Spam de comentários em blogs
+Arquivos com spam enviados para plataformas de hospedagem de arquivos
+Veja aqui várias dicas sobre como evitar o abuso das áreas públicas do site. Veja nossas dicas para corrigir sites invadidos e evitar ataques de hackers.
+
+Outros comportamentos que podem levar ao rebaixamento ou à remoção
+Remoções de ordem legal
+Quando recebemos um grande volume de solicitações válidas de remoção por direitos autorais envolvendo um determinado site, podemos usar isso para rebaixar outros conteúdos do site em nossos resultados. Dessa forma, se houver outro conteúdo com violação, é menos provável que ele seja encontrado pelas pessoas em vez do conteúdo original. Aplicamos indicadores de rebaixamento semelhantes às reclamações que envolvem difamação, produtos falsificados e remoções com mandados. No caso de material de abuso sexual infantil, sempre removemos esse tipo de conteúdo quando identificado e rebaixamos todo o material de sites com uma alta proporção de material de abuso sexual infantil.
+
+Remoções de informações pessoais
+Se processarmos um grande volume de remoções de informações pessoais envolvendo um site com práticas abusivas de remoção de conteúdo, vamos rebaixar outros conteúdos do site em nossos resultados. Também observamos se o mesmo padrão de comportamento está acontecendo com outros sites e, em caso afirmativo, aplicamos rebaixamentos ao conteúdo desses sites. Podemos aplicar práticas de rebaixamento semelhantes para sites que recebem um alto volume de remoções de conteúdo por doxxing ou remoções de imagens explícitas não consensuais.
+
+Evasão da política
+Se você continuar a se envolver em ações destinadas a contornar nossas políticas de spam ou de conteúdo para a Pesquisa Google, podemos tomar as medidas adequadas, que podem incluir a restrição ou remoção da qualificação para alguns dos nossos recursos de pesquisa (por exemplo, Notícias principais, Discover). Isso inclui, entre outros:
+
+Criar ou usar vários sites com a intenção de continuar violando nossas políticas
+Usar outros métodos para continuar distribuindo conteúdo ou adotando um comportamento que visa violar nossas políticas
+Golpe e fraude
+Há várias formas de golpes e fraudes, incluindo, mas não se limitando a, falsificar a identidade de uma empresa ou um serviço oficial por sites falsos, exibir informações falsas sobre uma empresa ou um serviço de maneira intencional ou atrair usuários para um site sob pretextos falsos. Com sistemas automatizados, o Google procura identificar páginas com spam ou conteúdo fraudulento e impede que elas apareçam nos resultados da Pesquisa Google. Exemplos de golpes e fraudes on-line:
+
+Falsificar a identidade de uma empresa ou um provedor de serviços conhecido para enganar os usuários e fazer com que eles paguem dinheiro para o terceiro errado
+Criar sites enganosos que finjam oferecer suporte oficial ao cliente em nome de uma empresa legítima ou informar dados de contato falsos dessa empresa

@@ -1,0 +1,590 @@
+Guia de otimização de mecanismos de pesquisa (SEO) para iniciantes
+
+bookmark_border
+Quem pode se beneficiar com este guia?
+Se você tem, gerencia, gera receita ou promove conteúdo on-line com a Pesquisa Google, este guia é para você. Se você é proprietário de uma empresa em crescimento, detém a propriedade de vários sites, é especialista em SEO de uma agência da Web ou é expert autodidata em SEO com uma paixão pelo funcionamento da nossa Pesquisa, o guia foi feito para você. Se você quer ter uma visão geral completa de fundamentos de SEO de acordo com as práticas recomendadas do Google, você está no lugar certo. Este guia não traz segredos para levar seu site automaticamente ao primeiro lugar da Pesquisa Google, porém, ao seguir as práticas recomendadas, você facilita o trabalho dos mecanismos de pesquisa: rastrear, indexar e entender seu conteúdo.
+
+Em geral, o processo de otimização de mecanismos de pesquisa (SEO) se dá com a realização de pequenas modificações em partes do seu site. Essas mudanças podem parecer pequenas melhorias quando vistas individualmente, mas, combinadas com outras otimizações, o impacto em termos de experiência do usuário e de resultados da pesquisa orgânica é notável. Talvez você já esteja familiarizado com muitos dos temas deste guia, já que eles são essenciais para qualquer página da Web, mas queremos garantir que você faça o melhor uso possível deles.
+
+Você precisa criar seu site para benefício os usuários, e otimizar para cada vez mais melhorar a experiência deles. Um desses usuários é o mecanismo de pesquisa, que ajuda outros usuários a descobrir seu conteúdo. Com SEO, você ajuda esses mecanismos de pesquisa a entender e apresentar seu conteúdo. Seu site pode ser maior ou menor ou oferecer conteúdo diferentes do exemplo a seguir, mas os temas deste guia são relevantes para sites de todos os tipos e tamanhos. Esperamos que nosso guia seja útil e uma inspiração de novas ideias para aprimorar seu site. Compartilhe feedback, dúvidas e histórias de sucesso na Comunidade de Ajuda da Central da Pesquisa Google.
+
+Primeiros passos
+Glossário
+Termos importantes usados neste guia:
+
+Índice: o Google armazena todas as páginas da Web conhecidas no índice dele. A entrada de índice de cada página descreve o conteúdo e o local (URL) de uma página. Indexar: é quando o Google busca, lê e adiciona uma página ao índice: O Google indexou várias páginas no meu site hoje.
+
+Rastreamento: é o processo de procura por páginas da Web novas ou atualizadas. O Google detecta URLs seguindo links, lendo sitemaps e usando outros meios. O Google rastreia a Web, procurando por novas páginas, e faz a indexação delas (quando apropriado).
+
+Rastreador: software automatizado que rastreia (busca) páginas da Web e faz a indexação delas.
+
+Googlebot: nome genérico do rastreador do Google. O Googlebot rastreia a Web constantemente.
+
+SEO: a otimização de mecanismos de pesquisa é o processo de fazer melhorias no site voltadas para esses 
+mecanismos. É também o cargo de quem trabalha com isso: Acabamos de contratar um novo SEO para aprimorar nossa presença na Web.
+
+Você está no Google?
+
+Como ver se o site está no índice do Google
+Faça uma pesquisa do tipo site: pelo URL da página inicial. Se você vir resultados, está no índice. Por exemplo, uma pesquisa por site:wikipedia.org retorna estes resultados.
+
+O operador site: não retorna necessariamente todos os URLs indexados com o prefixo especificado na consulta. Saiba mais sobre o operador site:
+Caso o site não esteja no Google
+Embora o Google rastreie bilhões de páginas, é inevitável que alguns sites acabem não aparecendo. Quando nossos rastreadores deixam de registrar um site, isso geralmente ocorre por um dos seguintes motivos:
+
+O site não está bem conectado a outros sites na Web.
+Você acabou de lançar um novo site, e o Google ainda não teve tempo de rastreá-lo.
+O design do site dificulta o rastreamento efetivo do conteúdo dele pelo Google.
+O Google encontrou um erro ao tentar rastrear o site.
+Sua política impede o Google de rastrear o site.
+Como colocar meu site no Google?
+O Google é um mecanismo de pesquisa totalmente automatizado que usa rastreadores para explorar a Web constantemente em busca de sites a indexar. Normalmente, você não precisa fazer nada além de postar o site na Web. Na realidade, a grande maioria dos sites listados em nossos resultados da pesquisa não é enviada manualmente para inclusão. Esses sites são encontrados e adicionados automaticamente quando rastreamos a Web. Saiba como o Google descobre, rastreia e veicula páginas da Web.
+
+Os Fundamentos da Pesquisa descrevem os elementos mais importantes da criação de um site compatível com o Google. Não há garantia de que nossos rastreadores vão encontrar um site específico. No entanto, seguir os Fundamentos da Pesquisa aumenta as chances de o site aparecer nos resultados da pesquisa.
+
+O Google Search Console fornece ferramentas para ajudar a enviar seu conteúdo para o Google e monitorar o desempenho na Pesquisa Google. Se você quiser, o Search Console poderá inclusive enviar alertas sobre problemas críticos encontrados pelo Google no seu site. Inscreva-se no Search Console.
+
+Veja algumas perguntas básicas sobre seu site que você deve fazer a si mesmo ao começar.
+
+Meu site está aparecendo no Google?
+O conteúdo que ofereço para os usuários é de alta qualidade?
+Minha empresa local está aparecendo no Google?
+Meu conteúdo é rápido e fácil de acessar em todos os dispositivos?
+Meu site é seguro?
+Você precisa de um especialista em SEO?
+Especialistas em otimização de mecanismos de pesquisa (SEO) são profissionais que têm o treinamento necessário para melhorar sua visibilidade nos mecanismos de pesquisa. Este guia oferece uma boa base para otimizar um site. Além disso, considere a possibilidade de contratar um SEO que ajude você a examinar suas páginas.
+
+Optar pela contratação de um SEO é uma decisão importante que pode melhorar seu site e poupar tempo. Pesquise as possíveis vantagens de contratar esse profissional e também os danos que um SEO irresponsável pode causar a seu site. Muitos SEOs e outros consultores e agências oferecem serviços úteis para proprietários de sites, incluindo o seguinte:
+
+Análise do conteúdo ou da estrutura do seu site
+Consultoria técnica sobre desenvolvimento de sites: por exemplo, hospedagem, redirecionamentos, páginas de erro, uso do JavaScript
+Desenvolvimento de conteúdo
+Gerenciamento de campanhas de desenvolvimento de negócios on-line
+Pesquisa de palavras-chave
+Treinamento de SEO
+Experiência em regiões e mercados específicos
+Antes de iniciar sua pesquisa por um SEO, é recomendável que você se torne um consumidor informado e se familiarize com o modo como os mecanismos de pesquisa funcionam. Recomendamos a leitura de todo o guia, com atenção especial aos seguintes tópicos:
+
+Como o Google rastreia, indexa e veicula conteúdo na Web
+Fundamentos da Pesquisa
+Como contratar um profissional de SEO
+Se você estiver pensando em contratar um SEO, faça isso o quanto antes. Um bom momento para a contratação é quando você estiver pensando em mudar o design ou planejando lançar um novo site. Dessa maneira, você e seu SEO podem garantir que seu site seja criado para ser conveniente para mecanismos de pesquisa do início ao fim. Entretanto, um bom SEO também pode ajudar a aprimorar um site estabelecido.
+
+Para saber em detalhes o que leva à necessidade de ter um SEO e o que procurar nesse profissional, leia o artigo Você precisa de SEO?.
+
+Ajudar o Google a encontrar seu conteúdo
+O primeiro passo para um site aparecer no Google é garantir que ele seja encontrado. A melhor maneira de fazer isso é enviando um sitemap. O sitemap é um arquivo no site que orienta os mecanismos de pesquisa sobre páginas novas ou alteradas. Saiba mais sobre como criar e enviar um sitemap.
+
+O Google também encontra páginas usando links de outras páginas. Saiba como Promover seu site para ele ser encontrado com mais facilidade.
+
+Informar ao Google quais páginas você não quer rastrear
+No caso de informações não confidenciais, bloqueie o rastreamento indesejado usando robots.txt
+O arquivo "robots.txt" informa aos mecanismos de pesquisa se eles podem acessar e rastrear partes do seu site. Esse arquivo, que precisa ser nomeado "robots.txt", é colocado no diretório raiz do site. É possível que as páginas bloqueadas pelo robots.txt ainda sejam rastreadas. Portanto, use um método mais seguro para páginas com informações confidenciais.
+
+
+# brandonsbaseballcards.com/robots.txt
+# Tell Google not to crawl any URLs in the shopping cart or images in the icons folder,
+# because they won't be useful in Google Search results.
+User-agent: googlebot
+Disallow: /checkout/
+Disallow: /icons/
+Quando não é relevante para o usuário encontrar uma determinada página nos resultados da pesquisa de um mecanismo, você tem a opção de não a colocar para rastreamento. Se o site usar subdomínios e você não quiser que determinadas páginas sejam rastreadas em um subdomínio específico, crie um arquivo robots.txt diferente para o subdomínio em questão. Para ver mais informações sobre robots.txt, consulte o guia sobre o uso de arquivos robots.txt.
+
+Leia sobre diferentes formas de impedir que um conteúdo seja exibido nos resultados da pesquisa.
+
+Evite:
+
+Permitir que o Google rastreie as páginas internas de resultados da pesquisa. Depois de clicar em um resultado de pesquisa, os usuários não gostam de ser levados para uma página diferente do seu site.
+Permitir que URLs criados como resultado de serviços de proxy sejam rastreados.
+No caso de informações confidenciais, use métodos mais seguros
+Um arquivo robots.txt não é uma forma adequada ou eficaz de bloquear material confidencial. O que ele faz é instruir rastreadores bem intencionados a não acessarem páginas com esse tipo de conteúdo. Ele não impede que o servidor entregue essas páginas a um navegador que as solicite. Um motivo para isso é que os mecanismos de pesquisa ainda podem fazer referência aos URLs que você bloqueia (exibindo somente o URL, sem snippet nem link de título) se houver links para esses URLs em algum lugar da Internet (como registros de referência). Além disso, mecanismos de pesquisa maliciosos ou que não estão em conformidade e não aceitam o Protocolo de exclusão de robôs podem simplesmente desobedecer às instruções do seu robots.txt. Há também a possibilidade de um usuário curioso examinar os diretórios ou subdiretórios no seu arquivo robots.txt e adivinhar o URL do conteúdo que você quer ocultar.
+
+Nesses casos, use a tag noindex quando quiser ocultar a página do Google, mas não se preocupe se um usuário com um link conseguir acessar a página. Quando quiser segurança real, utilize métodos de autorização adequados, como exigir do usuário uma senha ou remover a página do site por completo.
+
+Ajudar o Google e os usuários a entender seu conteúdo
+Permitir que o Google veja sua página do mesmo jeito que os usuários veem
+Quando o Googlebot rastreia uma página, o ideal é que ele a veja da mesma maneira que um usuário comum. Para renderização e indexação ideais, sempre permita que o Google tenha acesso ao JavaScript, à CSS e aos arquivos de imagem usados no site. Se o arquivo robots.txt do site desativar o rastreamento desses elementos, a renderização e indexação do conteúdo feitas por nossos algoritmos são diretamente prejudicadas. Isso pode resultar em classificações inferiores.
+
+Ação recomendada: usar a Ferramenta de inspeção de URL. Com ela, você tem uma visão exata de como o Google vê e renderiza o conteúdo, além de ajuda para identificar e corrigir vários problemas de indexação do site.
+
+Criar títulos de página precisos e exclusivos
+Um elemento <title> informa ao usuário e aos mecanismos de pesquisa qual é o tema de uma página específica. Coloque o elemento <title> no elemento <head> do documento HTML e crie um texto de título exclusivo para cada página no seu site.
+
+
+<html>
+<head>
+    <title>Brandon's Baseball Cards - Buy Cards, Baseball News, Card Prices</title>
+    <meta name="description" content="Brandon's Baseball Cards provides a large selection of
+    vintage and modern baseball cards for sale.
+    We also offer daily baseball news and events.">
+</head>
+<body>
+...
+Influenciar snippets e links de títulos nos resultados da pesquisa
+Caso seu documento apareça em uma página de resultados da pesquisa, o conteúdo do elemento <title> pode aparecer como o link do título do resultado da pesquisa. Se você não tiver familiaridade com as diferentes partes de um resultado da pesquisa do Google, confira este vídeo sobre a anatomia de um resultado da pesquisa (em inglês).
+
+Um link de título em um resultado da Web na Pesquisa Google
+O elemento <title> da página inicial pode ser o nome do seu negócio ou site e pode incluir outras informações, como a localização, os objetivos ou ofertas da empresa.
+
+Descrever com precisão o conteúdo da página
+Escolha um texto para o título que soe natural e que comunique com eficiência o conteúdo da página.
+
+Evite:
+
+Usar texto no elemento <title> que não tenha relação com o conteúdo da página.
+Usar um texto padrão ou vago, como "Sem título" ou "Nova página 1".
+Criar elementos <title> exclusivos para cada página
+Verifique se cada página do site tem um texto exclusivo no elemento <title>, já que isso ajuda o Google a diferenciá-las. Caso seu site use páginas específicas para dispositivos móveis, use textos descritivos nos elementos <title> também nas versões móveis.
+
+Evite:
+
+Usar um único título em todos os elementos <title> nas páginas do site ou em um grande grupo de páginas.
+Usar elementos <title> curtos e descritivos
+Os elementos <title> podem ser curtos e informativos. Se o texto no elemento <title> for muito longo ou considerado menos relevante, o Google vai mostrar apenas uma parte do texto no elemento <title> ou um link de título gerado automaticamente no resultado da pesquisa.
+
+Evite:
+
+Usar textos muito longos em elementos <title> que não são úteis para os usuários.
+Usar muitas palavras-chave desnecessárias no elemento <title>.
+Usar a tag de metadescrição
+A tag de metadescrição fornece ao Google e a outros mecanismos de pesquisa um resumo do conteúdo da página. O título pode ser formado por algumas palavras ou uma expressão. Já a tag de metadescrição pode conter uma ou mais frases ou um parágrafo curto. Assim como o elemento <title>, a tag de metadescrição é colocada no elemento <head> do documento HTML.
+
+
+<html>
+<head>
+    <title>Brandon's Baseball Cards - Buy Cards, Baseball News, Card Prices</title>
+    <meta name="description" content="Brandon's Baseball Cards provides a large selection of vintage and modern baseball cards for sale. We also offer daily baseball news and events.">
+</head>
+<body>
+...
+Quais são os benefícios das tags de metadescrição?
+As tags de metadescrição são importantes porque podem ser usadas pelo Google como snippets para suas páginas nos resultados da pesquisa. Dizemos "podem ser usadas" porque o Google também pode optar por usar um trecho do conteúdo da sua página, caso essa seção tenha um bom nível de correspondência com a consulta do usuário. A adição de tags de metadescrição a cada uma das páginas é uma prática indicada para garantir a exibição do snippet quando o Google não conseguir encontrar um trecho de texto adequado para exibir. Saiba mais sobre como criar metadescrições de qualidade.
+
+Um snippet em um resultado da Web na Pesquisa Google
+ Resumir o conteúdo da página com precisão 
+Escreva uma descrição informativa e interessante para os usuários que vejam a tag de metadescrição como snippet em um resultado da pesquisa. Não há tamanho mínimo nem máximo para o texto da tag description meta, mas recomendamos que apareça por inteiro na Pesquisa. Vale lembrar que os usuários podem ver snippets de tamanhos diferentes dependendo de como e onde pesquisam. Além disso, ele precisa ter todas as informações necessárias para o usuário decidir se a página é relevante ou não para ele.
+
+Evite:
+
+Criar uma tag de metadescrição que não tem relação com o conteúdo da página.
+Usar descrições genéricas como "Esta é uma página da Web" ou "Página sobre figurinhas de futebol".
+Preencher a descrição somente com palavras-chave.
+Copiar e colar todo o conteúdo do documento na tag de metadescrição.
+Usar descrições exclusivas a cada página
+Ter uma tag de metadescrição diferente para cada página beneficia os usuários e o Google, especialmente, no caso de pesquisas em que é possível abrir várias páginas no domínio (por exemplo, pesquisas com o operador site:). Se o site tiver milhares ou mesmo milhões de páginas, provavelmente não será viável criar manualmente tags de metadescrição para todas elas. Nesse caso, você pode gerar tags de metadescrição automaticamente com base no conteúdo de cada página.
+
+Evite:
+
+Usar uma única tag de metadescrição em todas as páginas do seu site ou em um grande grupo de páginas.
+Usar tags de cabeçalho para enfatizar textos importantes
+Use cabeçalhos significativos para indicar tópicos importantes e ajude a criar uma estrutura hierárquica para o conteúdo, facilitando a navegação dos usuários no documento.
+
+Imagine que você está escrevendo um rascunho
+Como se estivesse planejando a estrutura de um grande artigo, decida quais são os temas e os subtemas do conteúdo na página e onde usar as tags de cabeçalho adequadamente.
+
+Evite:
+
+Colocar texto em tags de cabeçalhos que não ajudariam na definição da estrutura da página.
+Usar tags de cabeçalho quando outras tags como <em> e <strong> podem ser mais apropriadas.
+Mudar de um tamanho de tag de cabeçalho para outro sem manter um padrão.
+Use os cabeçalhos na página com moderação
+Use as tags de cabeçalho onde elas fizerem sentido. Muitas tags de cabeçalho podem dificultar a vida do usuário na hora de analisar o conteúdo e entender onde um tópico termina e outro começa.
+
+Evite:
+
+Uso excessivo de tags de cabeçalho em uma página
+Cabeçalhos muito longos
+Uso de tags de cabeçalho somente para estilizar o texto, e não para estruturar
+Adicionar a marcação de dados estruturados
+Os dados estruturados são códigos que podem ser adicionados às páginas do seu site para descrever o conteúdo e ajudar os mecanismos de pesquisa a entender o que há nas suas páginas. Os mecanismos de pesquisa podem usar esse conhecimento para exibir seu conteúdo de modo útil e atrativo nos resultados da pesquisa. Isso, por sua vez, pode ajudar você a atrair o tipo certo de cliente para seu negócio.
+
+A imagem mostra um resultado da pesquisa que foi aprimorado com avaliação com estrelas usando dados estruturados.
+Por exemplo, se você tem uma loja on-line e marca uma página de produto individual, isso nos ajuda a entender que a página exibe uma bicicleta, o preço dela e os comentários dos clientes. Essas informações podem aparecer no snippet dos resultados da pesquisa para consultas relevantes. Chamamos isso de pesquisa aprimorada.
+
+Além das pesquisas aprimoradas, a marcação de dados estruturados também pode ser usada para exibir resultados relevantes em outros formatos. Por exemplo, se você tem uma loja física, ter uma marcação dos horários de funcionamento ajuda os possíveis clientes a localizar você e a saber se a loja está aberta no momento da pesquisa.
+
+Este resultado da Pesquisa Google para sorveterias mostra pesquisas aprimoradas por dados estruturados.
+
+Você pode marcar muitas entidades relevantes para seu negócio:
+
+Produtos vendidos
+Localização da empresa
+Vídeos sobre seus produtos ou negócios
+Horários de funcionamento
+Listagens de eventos
+Receitas
+Logotipo da empresa e muito mais
+Veja uma lista completa dos tipos de conteúdo aceitos.
+
+Recomendamos que você use os dados estruturados com uma marcação de notações compatível para descrever seu conteúdo. Adicione a marcação ao código HTML das páginas ou use ferramentas como o Marcador de dados e o Assistente de marcação.
+
+Verifique a marcação usando o teste de pesquisa aprimorada
+Depois de marcar seu conteúdo, use o Teste de pesquisa aprimorada do Google para garantir uma implementação sem erros. Você pode inserir o URL no local do conteúdo ou copiar o HTML real com a marcação.
+
+Evite:
+
+Usar marcações inválidas.
+Use o Marcador de dados e o Assistente de marcação
+Se você quer experimentar a marcação estruturada sem ter de mudar o código-fonte do site, a opção é usar o Marcador de dados, que é uma ferramenta integrada ao Search Console e compatível com um subconjunto de tipos de conteúdo.
+
+E se você quiser ter o código de marcação pronto para copiar e colar na sua página, experimente o Assistente de marcação.
+
+Evite:
+
+Mudar o código-fonte do seu site quando não tiver certeza sobre como implementar a marcação.
+Acompanhe o desempenho das páginas marcadas
+Os diversos relatórios de pesquisa aprimorada no Search Console mostram quantas páginas no site apresentam um tipo específico de marcação, quantas vezes elas apareceram nos resultados da pesquisa e quantas vezes as pessoas clicaram nelas nos últimos 90 dias. Eles também mostram todos os erros que detectamos.
+
+Evite:
+
+Adicionar uma marcação de dados que não seja visível para os usuários.
+Criar avaliações falsas ou adicionar marcações irrelevantes.
+Gerenciar a apresentação do seu site nos resultados da Pesquisa Google
+Ter dados estruturados de maneira correta qualifica suas páginas para usufruírem de muitos recursos especiais nos resultados da Pesquisa Google, como estrelas nas avaliações, resultados enfeitados, entre outros. Veja a galeria de tipos de resultados da pesquisa que podem ser aplicados à sua página.
+
+Organizar a hierarquia do seu site
+Compreender como os mecanismos de pesquisa usam os URLs
+Os mecanismos de pesquisa precisam de um URL exclusivo para cada conteúdo para poderem rastrear, indexar e encaminhar os usuários para esse conteúdo. Conteúdos diferentes (por exemplo, produtos distintos em uma loja) e conteúdos modificados (por exemplo, traduções ou variações regionais) precisam usar URLs diferentes para serem exibidos adequadamente na pesquisa.
+
+Os URLs geralmente são divididos em várias seções distintas:
+
+
+protocol://hostname/path/filename?querystring#fragment
+Exemplo:
+
+
+https://www.example.com/RunningShoes/Womens.htm?size=8#info
+O Google recomenda que todos os sites usem https:// sempre que possível. "Nome do host" é onde seu site está hospedado. Geralmente usa o mesmo nome de domínio que você usa como e-mail. O Google diferencia a versão com e sem www (por exemplo, www.example.com ou apenas example.com). Ao adicionar seu site ao Search Console, recomendamos adicionar as versões http:// e https://, além das versões www e não www.
+
+O caminho, o nome do arquivo e a string de consulta determinam qual conteúdo do seu servidor é acessado. Essas três partes diferenciam maiúsculas de minúsculas, por isso FILE resultaria em um URL diferente de file. "Nome do host" e "protocolo" não diferenciam maiúsculas e minúsculas.
+
+Um fragmento (neste caso, #info) geralmente identifica a parte da página para onde o navegador se desloca. Como o conteúdo em si costuma ser o mesmo seja qual for o fragmento, os mecanismos de pesquisa geralmente ignoram os fragmentos.
+
+Ao fazer referência à página inicial, a barra final após o nome do host é opcional, porque leva ao mesmo conteúdo (https://example.com/ é igual a https://example.com). No caso do caminho e do nome do arquivo, a barra final é vista como um URL diferente (que sinaliza um arquivo ou um diretório), por exemplo, https://example.com/fish não é o mesmo que https://example.com/fish/.
+
+A navegação é importante para os mecanismos de pesquisa
+A navegação do site é um elemento importante para ajudar os visitantes a localizar rapidamente o conteúdo que eles buscam. Ela também ajuda os mecanismos de pesquisa a entender o conteúdo que o proprietário do site considera importante. Embora os resultados da Pesquisa Google sejam fornecidos no nível da página, o Google também tenta entender qual é o papel de uma determinada página dentro do todo que é o site.
+
+O exemplo mostra uma hierarquia de página útil para sites.
+Planejar a navegação com base na sua página inicial
+Todos os sites têm uma página inicial ou "raiz", que geralmente é a página mais acessada do site e o ponto de partida para a navegação de muitos visitantes. A menos que seu site tenha poucas páginas, considere como os visitantes vão navegar da página geral (raiz) para uma página com conteúdo mais específico. Você tem tantas páginas sobre um tópico que faria sentido ter uma página só com a descrição dessas páginas relacionadas (por exemplo, página raiz -> listagem de temas relacionados -> tema específico)? Você tem centenas de produtos diferentes que precisam ser classificados em várias páginas de categorias e subcategorias?
+
+Usar listas de navegação estrutural
+A localização atual é uma linha de links internos na parte superior ou inferior da página que permite aos visitantes voltar rapidamente à seção anterior ou à página raiz. Muitas localizações atuais usam o link mais à esquerda como caminho para a página mais geral (normalmente a raiz) e listam as seções mais específicas à direita. Recomendamos o uso da marcação de dados estruturados de navegação estrutural ao utilizar esse recurso.
+
+A lista de navegação estrutural do site mostra a hierarquia da página aberta.
+Criar uma página de navegação simples para os usuários
+A página de navegação é uma página simples que exibe a estrutura do seu site e normalmente apresenta uma lista hierárquica das páginas que estão nele. Os visitantes podem acessar essa página se tiverem problemas para encontrar outras páginas em seu site. Embora essa página também seja visitada pelos mecanismos de pesquisa, oferecer uma boa cobertura de rastreamento das páginas é um recurso que ajuda principalmente as pessoas que visitam o site.
+
+Crie uma hierarquia flutuante natural
+Facilite ao máximo o caminho que os usuários têm de percorrer do conteúdo geral para o mais específico no seu site. Adicione páginas de navegação quando for interessante e integre-as à sua estrutura interna de links. Confira se todas as páginas do site podem ser acessadas por links e se não é necessária uma funcionalidade de pesquisa interna para elas serem encontradas. Quando apropriado, vincule-as a páginas relacionadas para ajudar os usuários a descobrirem conteúdos semelhantes.
+
+Evite:
+
+Criar redes complexas de links de navegação, por exemplo, vinculando todas as páginas do site umas às outras.
+Detalhar demais seu conteúdo (gerando excesso de cliques para chegar à página inicial).
+Use texto para a navegação
+Controlar a maior parte da navegação de uma página a outra por links de texto ajuda os mecanismos de pesquisa a rastrearem e entenderem seu site. Ao usar JavaScript para criar uma página, use elementos a com URLs como valores de atributo href e gere todos os itens de menu no carregamento da página, em vez de esperar uma interação do usuário.
+
+Evite:
+
+Navegações totalmente baseadas em imagens ou animações.
+Exigir o gerenciamento de eventos por script para navegação.
+Crie uma página de navegação para os usuários e um sitemap para os mecanismos de pesquisa
+Disponibilize uma página de navegação geral do site (ou para as páginas mais importantes, se você tiver centenas ou milhares de páginas) que seja simplificada para os visitantes. Crie um arquivo de sitemap em XML para garantir que os mecanismos de pesquisa descubram as páginas novas e atualizadas do site, listando todos os URLs relevantes com as datas da última modificação do conteúdo principal.
+
+Evite:
+
+Deixar a página de navegação desatualizada e com links quebrados.
+Criar uma página de navegação só com listas de páginas, sem organizá-las (por exemplo, por assunto).
+Mostre páginas 404 úteis
+De vez em quando, um usuário pode acessar a uma página que não existe no seu site, seja seguindo um link corrompido ou digitando um URL incorreto. Ter uma página 404 personalizada que direciona os usuários para outra em funcionamento melhora muito a experiência do usuário. Considere incluir um link para a página raiz e fornecer links para os conteúdos mais acessados ou relacionados do site. Use o Google Search Console para encontrar as fontes de URLs que estão causando erros do tipo "não encontrado".
+
+Evite:
+
+Permitir que suas páginas 404 sejam indexadas nos mecanismos de pesquisa. Confira se seu servidor da Web está configurado para fornecer um código de status HTTP 404. No caso de sites baseados em JavaScript, inclua a tag noindex quando páginas inexistentes forem solicitadas.
+Bloquear o rastreamento de páginas 404 com o arquivo robots.txt.
+Mostrar uma mensagem vaga como "Não encontrado", "404" ou nem sequer oferecer uma página 404.
+Usar nas páginas 404 um design diferente do usado no resto do site.
+URLs simples transmitem informações de conteúdo
+Criar categorias e nomes de arquivo descritivos para os documentos no site não só ajuda a mantê-lo organizado como pode gerar URLs otimizados e mais simples para quem quiser vincular seu conteúdo. Os visitantes podem se sentir intimidados por URLs muito longos, complexos e com palavras incomuns.
+
+URLs como os seguintes podem causar confusão e não ser muito amigáveis:
+
+
+https://www.brandonsbaseballcards.com/folder1/22447478/x2/14032015.html
+URLs relevantes são mais úteis e podem ser compreendidos mais facilmente em diferentes contextos:
+
+
+https://www.brandonsbaseballcards.com/article/ten-rarest-baseball-cards.html
+URLs são incluídos nos resultados da pesquisa
+Por fim, não esqueça que o URL de um documento geralmente aparece de alguma forma perto do título nos resultados da Pesquisa Google.
+
+O Google faz um bom trabalho rastreando todos os tipos de estruturas de URL, mesmo as mais complexas, mas convém simplificar seus URLs o máximo possível.
+
+Use palavras em URLs
+URLs com palavras relevantes para o conteúdo e a estrutura do site ajudam os visitantes que navegam no seu site.
+
+Evite:
+
+Usar URLs longos com parâmetros e IDs de sessão desnecessários.
+Escolher nomes de página genéricos, como page1.html.
+Usar palavras-chave em excesso, como baseball-cards-baseball-cards-baseballcards.html.
+Crie uma estrutura de diretórios simples
+Use uma estrutura de diretórios que organize bem o conteúdo e ajude os visitantes a saberem onde eles estão no seu site. Procure usar sua estrutura de diretórios para indicar o tipo de conteúdo encontrado nesse URL.
+
+Evite:
+
+O aninhamento profundo de subdiretórios, como .../dir1/dir2/dir3/dir4/dir5/dir6/page.html.
+Usar nomes de diretórios que não têm relação com o conteúdo desses diretórios.
+Inclua uma versão de um URL para chegar a um documento
+Para evitar que uma parte dos usuários vincule uma versão do URL e outra vincule uma versão diferente dele (o que poderia dividir a reputação desse conteúdo entre os URLs), procure usar e fazer referência a um URL na estrutura e no vínculo interno das suas páginas. Se você constatar que as pessoas estão acessando o mesmo conteúdo com vários URLs, uma boa solução será configurar um redirecionamento 301 de URLs não preferenciais para o URL dominante. Se não for possível redirecionar, também é possível usar o elemento do link rel="canonical".
+
+Evite:
+
+que páginas de subdomínios e o diretório raiz acessem o mesmo conteúdo, por exemplo, domain.com/page.html e sub.domain.com/page.html.
+Otimizar seu conteúdo
+Deixar o site mais prático e interessante
+A criação de conteúdo atraente e útil é o fator que provavelmente exercerá mais influência sobre o desempenho do seu site, mais que qualquer outro discutido aqui. Os usuários sabem reconhecer bons conteúdos e estão propensos a direcionar outros usuários a eles. Esse redirecionamento pode ocorrer por postagens de blog, serviços de mídia social, e-mails, fóruns ou outros meios.
+
+O buzz orgânico (ou de boca a boca) é o que ajuda a construir a reputação do seu site com os usuários e o Google, e isso raramente se consegue sem conteúdo de qualidade.
+
+Criar conteúdos novos e interessantes pode atrair links de outros sites.
+Saber o que os leitores querem para poder oferecer isso a eles
+Pense nas palavras que podem ser pesquisadas para encontrar seu conteúdo. Usuários que sabem bastante sobre um determinado tópico podem usar nas consultas palavras-chave diferentes daquelas usadas por alguém que não sabe muito sobre o assunto. Por exemplo, um torcedor de futebol de longa data pode pesquisar "fifa", acrônimo de Fédération Internationale de Football Association, enquanto um torcedor novo pode usar uma consulta mais genérica como "finais de futebol". Prever essas diferenças no comportamento de pesquisa e levá-las em consideração ao criar conteúdo (usando boas combinações de palavras-chave) pode gerar resultados muito positivos. O Google Ads oferece um Planejador de palavras-chave muito útil que ajuda você a descobrir novas variações de palavras-chave e a ver o volume de pesquisa aproximado de cada uma delas. Além disso, o Google Search Console apresenta as principais consultas de pesquisa que levam à exibição do seu site nos resultados e aquelas que levaram a maioria dos usuários ao seu site no Relatório de desempenho.
+
+Pense em um serviço novo e útil que nenhum outro site oferece. Você também pode publicar um estudo original ou uma notícia emocionante ou otimizar sua base de usuários únicos. Outros sites podem não ter a expertise ou os recursos para fazer isso.
+
+Escreva textos fáceis de ler
+Os usuários gostam de conteúdos bem escritos e fáceis de acompanhar.
+
+Evite:
+
+Publicar textos medíocres com muitos erros gramaticais e ortográficos.
+Conteúdo inoportuno ou mal escrito.
+Incorporar texto em imagens e vídeos para conteúdo textual: os usuários podem querer copiar e colar o texto, e os mecanismos de pesquisa não vão conseguir ler.
+Organize seus tópicos com clareza
+Procure organizar seu conteúdo de modo que os visitantes tenham uma boa ideia de quando um tópico começa e outro termina. Dividir o conteúdo em seções coerentes ajuda os usuários a encontrar mais rápido o que eles buscam.
+
+Evite:
+
+"largar" textos enormes sobre temas variados em uma página sem usar parágrafos, subtítulos ou separação de layouts.
+Crie conteúdo novo e exclusivo
+Conteúdos novos não só mantêm a fidelidade da sua base de visitantes como também atraem visitantes novos.
+
+Evite:
+
+Reciclar (ou mesmo copiar) conteúdo que já existe e vai trazer pouco valor aos usuários;
+Ter versões duplicadas ou praticamente duplicadas do seu conteúdo espalhadas pelo site.
+Saiba mais sobre conteúdo duplicado
+
+Otimize o conteúdo para seus usuários, não para os mecanismos de pesquisa
+Elaborar o site de acordo com as necessidades dos visitantes e ao mesmo tempo cuidar para que possa ser acessado pelos mecanismos de pesquisa é uma prática que costuma gerar resultados positivos.
+
+Evite:
+
+Inserir palavras-chave desnecessárias e em excesso que visam facilitar o trabalho dos mecanismos de pesquisa, mas que acabam incomodando ou não fazem sentido para os usuários.
+Ter blocos de texto como "erros ortográficos frequentes usados para chegar a esta página" que adicionam pouco valor aos usuários.
+Ocultar texto dos usuários de maneira enganosa, mas mostrar esse mesmo texto aos mecanismos de pesquisa.
+Tomar medidas para conquistar a confiança do usuário
+Os usuários se sentem mais à vontade para visitar um site quando acreditam que ele é confiável.
+
+Um site com boa reputação é confiável. Desenvolva uma reputação e confiabilidade para seu site em relação a uma área específica.
+Forneça informações sobre quem edita e fornece o material do site e esclareça os objetivos do conteúdo exibido nele. Se você tiver um site de compras ou de outro tipo de transação financeira, inclua informações sobre o atendimento ao cliente claras e satisfatórias para ajudar os usuários a resolver problemas. Se você tiver um site de notícias, informe claramente quem é responsável pelo conteúdo.
+
+O uso de tecnologias apropriadas também é importante. Se uma página de compras on-line não tiver uma conexão segura, os usuários não vão confiar no site.
+
+Deixar claro a especialidade e o reconhecimento do site
+A especialidade e o reconhecimento de um site aumentam sua qualidade. É importante que o conteúdo do site seja criado ou editado por pessoas com experiência no assunto. Por exemplo, contar com fontes experientes ou reconhecidas ajuda os usuários a entender a especialidade das matérias. No caso de páginas sobre temas científicos, apresentar argumentos fundamentados em diferentes pontos de vista é uma boa prática.
+
+Providenciar informação suficiente sobre o assunto do site
+A criação de conteúdo de alta qualidade exige muito de, pelo menos, um dos seguintes aspectos: tempo, trabalho, especialização e talento/habilidade. Confira se o conteúdo é realmente preciso, bem escrito e abrangente. Por exemplo, se você descrever sua página como uma receita, publique uma receita completa que seja fácil de seguir, em vez de somente um conjunto de ingredientes ou uma descrição básica do prato.
+
+Evite:
+
+Publicar conteúdo insuficiente para a finalidade da página.
+Evitar anúncios que distraiam os usuários
+Os anúncios precisam estar em locais visíveis. No entanto, os anúncios não devem distrair os usuários ou impedir que eles acessem o conteúdo do site. Por exemplo, anúncios, conteúdo suplementar ou páginas intersticiais (páginas exibidas antes ou depois do conteúdo do seu interesse) que dificultam o uso do site. Saiba mais sobre este tema.
+
+Evite:
+
+Colocar anúncios que distraem os usuários nas suas páginas.
+Usar os links de maneira inteligente
+Escreva um bom texto para o link
+O texto do link é o texto visível dentro de um link. Esse texto informa aos usuários e ao Google algo sobre a página vinculada. Os links na sua página podem ser internos (levando a outras páginas no site) ou externos (levando a conteúdo em outros sites). Nos dois casos, com um bom texto âncora, fica mais fácil para os usuários navegar pelo site e para o Google entender do que trata a página vinculada.
+
+O diagrama mostra recomendações de texto útil para links no site.
+Com um texto âncora adequado, os usuários e os mecanismos de pesquisa conseguem entender com mais facilidade o que as páginas vinculadas contêm.
+
+Escolha um texto descritivo
+Escreva um texto âncora que ofereça pelo menos uma ideia básica do conteúdo da página vinculada.
+
+Evite:
+Redigir textos âncora genéricos, como "página", "artigo" ou "clique aqui".
+Usar um texto que não aborda o tópico ou que não tem relação com o conteúdo da página vinculada.
+Usar o URL da página como texto âncora na maioria dos casos (embora essa prática seja adequada em contextos como promover ou referenciar o novo endereço de um site).
+Escreva textos concisos
+Use um texto breve e descritivo, idealmente com poucas palavras ou com uma frase curta.
+
+Evite:
+Escrever textos âncora longos, como uma frase extensa ou um parágrafo de texto.
+Formate os links para facilitar a identificação
+Facilite aos usuários a distinção entre o texto normal e o texto âncora dos seus links. Seu conteúdo nã vai ser útil se os usuários não conseguirem encontrar os links ou clicarem acidentalmente neles.
+
+Evite:
+Usar CSS ou estilos de texto que deixem os links parecidos com o texto normal.
+Pense também em textos âncora para os links internos
+Normalmente, a vinculação é pensada somente em termos de direcionamento para sites externos, mas prestar mais atenção ao texto âncora usado nos links internos pode ajudar os usuários e o Google a navegarem melhor no seu site.
+
+Evite:
+Usar textos âncora muito longos ou cheios de palavras-chave direcionados somente para os mecanismos de pesquisa
+Criar links desnecessários que não ajudam na navegação do usuário pelo site.
+Tenha cuidado ao vincular páginas
+Ao vincular suas páginas, você pode acabar estendendo a reputação do seu site para outro site. Alguns usuários podem tentar se beneficiar disso inserindo links para os sites deles nas seções de comentários ou nos fóruns de mensagens do seu site. Pode acontecer também de você mencionar um site de modo negativo e não querer estender sua reputação a ele. Por exemplo, imagine que você está publicando uma postagem sobre spam de comentários e quer mencionar um site que recentemente publicou spam nos comentários do seu blog. Você quer alertar as pessoas sobre esse site, então inclui no seu conteúdo um link que direciona a ele. No entanto, você não quer estender sua reputação ao site por conta desse link. Esse seria um bom momento para usar o atributo nofollow.
+
+Outro exemplo de momento em que o atributo nofollow pode ser útil são links de widget. Se você usa um widget de terceiros para enriquecer a experiência do seu site e conquistar mais usuários, verifique se esse widget contém links que não deveriam estar no seu site. Alguns widgets podem adicionar links ao site que não fazem parte da escolha editorial e com textos âncora que você, como proprietário do site, não controla. Se a remoção desses links indesejados do widget não for possível, desative-os com o atributo nofollow. Se você criar um widget para a funcionalidade ou o conteúdo que você oferece, não deixe de incluir nofollow nos links no snippet de código padrão.
+
+Por fim, se quiser usar o recurso nofollow em todos os links de uma página, adicione a tag <meta name="robots" content="nofollow"> à tag <head> dela. Veja mais detalhes sobre as tags robots meta na nossa documentação.
+
+Combata o spam de comentários com nofollow
+Para instruir o Google a não seguir nem transmitir a reputação da página às páginas vinculadas, defina o valor do atributo rel de um link como nofollow ou ugc. Não seguir um link significa adicionar rel="nofollow" ou um atributo mais específico, como ugc, dentro da tag âncora do link, como mostrado aqui:
+
+
+<a href="https://www.example.com" rel="nofollow">Anchor text here</a>
+ou:
+
+
+<a href="https://www.example.com" rel="ugc">Anchor text here</a>
+Quando isso seria útil? Se seu site tiver um blog com o recurso de comentários públicos ativado, eventuais links publicados nos comentários poderiam transmitir sua reputação para páginas em que você não confia. As seções de comentários do blog das páginas são altamente suscetíveis a comentários com spam. Não seguir esses links adicionados pelos usuários garante que você não estenderá a um site com spam a reputação que levou tempo para construir.
+
+A ilustração mostra o comentário de um usuário com links externos.
+
+Adicione automaticamente nofollow a colunas de comentários e fóruns de mensagens
+Muitos pacotes de software de blogs usam automaticamente o nofollow para os comentários dos usuários, mas isso é algo que pode ser editado manualmente também nos pacotes que não adotam esse padrão. Essa dica vale para outras seções do site que envolvam conteúdo gerado pelo usuário, como livros de visita, fóruns, painéis de discussão e listagens de referenciadores. Caso você garanta a procedência dos links adicionados por terceiros (por exemplo, se um comentarista do site é de confiança), não é preciso usar o atributo nofollow nos links. No entanto, a vinculação a sites considerados pelo Google como com spam pode afetar a reputação do seu site. A documentação da Central da Pesquisa Google apresenta mais dicas sobre como evitar spam nos comentários, por exemplo, com o uso dos CAPTCHAs e da ativação da moderação de comentários.
+
+Ilustração de um pop-up CAPTCHA
+Otimizar suas imagens
+Usar imagens HTML
+Use elementos de imagem HTML para incorporar imagens ao seu conteúdo.
+
+Use os elementos HTML <img> ou <picture>
+A marcação HTML semântica ajuda os rastreadores a encontrar e processar imagens. Ao usar o elemento <picture>, também é possível especificar várias opções de tamanhos de tela diferentes para imagens responsivas. Também é possível usar o atributo loading="lazy" em imagens para que o carregamento da página seja mais rápido para os usuários.
+
+Evite:
+
+Usar CSS para exibir imagens que devem ser indexadas.
+Use o atributo alt
+Forneça um nome de arquivo descritivo e uma descrição de atributo alt para as imagens. O atributo alt permite que você especifique um texto alternativo para a imagem se ela não puder ser exibida.
+
+A ilustração mostra a utilidade de um bom texto alternativo para imagens.
+Por que usar esse atributo? Se um usuário visualizar seu site usando tecnologias assistivas, como um leitor de tela, o conteúdo do atributo alt fornecerá informações sobre a imagem.
+
+Além disso, se você usar uma imagem como link, o texto alternativo dessa imagem será tratado da mesma maneira que o texto âncora de um link de texto. No entanto, quando os links de texto puderem dar conta dessa função, recomendamos evitar o uso excessivo de imagens para os links na navegação do site. Por fim, otimizar os nomes de arquivo e os textos alternativos das imagens facilita o trabalho que projetos como o Imagens do Google realizam para entender imagens.
+
+Use nomes de arquivo e textos alternativos curtos, porém, descritivos
+Como muitas das outras partes da página que são segmentadas para otimização, os nomes de arquivo e os textos alternativos funcionam melhor quando são curtos e descritivos.
+
+Evite:
+Usar nomes de arquivo genéricos, como image1.jpg, pic.gif e 1.jpg, sempre que possível. Se o site tiver milhares de imagens, considere automatizar o nome delas.
+Criar nomes de arquivo muito extensos.
+Usar palavras-chave demais no texto alternativo ou copiar e colar frases inteiras.
+Inclua um texto alternativo ao usar imagens como links
+Se você optar por usar uma imagem como link, preencha o texto alternativo dela para ajudar o Google a entender mais sobre a página que você está vinculando. Imagine que você está criando o texto âncora de um link de texto.
+
+Evite:
+Texto alternativo muito longo que seria considerado spam.
+Usar somente links de imagens para a navegação do site.
+Ajudar os mecanismos de pesquisa a encontrar suas imagens
+Use um sitemap de imagem para dar mais informações sobre as imagens encontradas no site. Assim, elas têm mais chances de serem encontradas nos resultados do Imagens do Google. A estrutura desse arquivo é semelhante à do arquivo de sitemap XML das suas páginas da Web.
+
+Usar formatos de imagem padrão
+Use os tipos de arquivo comumente aceitos. A maioria dos navegadores é compatível com imagens em JPEG, GIF, PNG, BMP e WebP. Também é uma boa ideia combinar a extensão do nome de arquivo com o tipo de arquivo.
+
+Adaptar seu site para ser compatível com dispositivos móveis
+Hoje o mundo é móvel. A maioria das pessoas que pesquisam no Google está usando um dispositivo móvel. Uma versão para computador do site pode ser difícil de ver e usar em um dispositivo móvel. Como resultado, ter um site otimizado para dispositivos móveis é fundamental para manter sua presença on-line. Na verdade, desde o final de 2016, o Google tem feito experimentos para usar, principalmente, a versão para dispositivos móveis do conteúdo de um site para classificação, análise de dados estruturados e geração de snippets.
+
+Entender a diferença entre dispositivos
+
+Smartphone: neste documento, o termo "dispositivo móvel" refere-se a smartphones, como dispositivos que executam Android, iPhone ou Windows Phone. Os navegadores de dispositivos móveis são semelhantes aos de computadores porque podem processar várias especificações do HTML5, apesar de a tela ser menor e de, na maioria dos casos, a orientação padrão da tela ser vertical.
+Tablet: os tablets pertencem a uma classe própria. Portanto, quando falamos de dispositivos móveis, geralmente os tablets não estão incluídos nesta definição. Os tablets costumam ter telas maiores. Isso significa que, a menos que você ofereça conteúdo otimizado para tablets, supomos que os usuários esperam ver seu site como ele é visualizado no navegador de um computador, e não como visto em um smartphone.
+Telefones multimídia: são telefones com navegadores que processam páginas codificadas que atendem aos padrões XHTML e são compatíveis com a marcação HTML5 e com JavaScript/ECMAscript, mas podem não ser compatíveis com algumas APIs de extensão no padrão HTML5. Em geral, isso descreve o navegador da maioria dos telefones compatíveis com conexão 3G que não são smartphones.
+Telefones básicos: nesses telefones, os navegadores não podem processar páginas da Web normais para computador usando o HTML padrão. Isso inclui navegadores que processam somente cHTML (iMode), WML e XHTML-MP.
+Nossas recomendações são voltadas a smartphones, mas sugerimos que os proprietários de sites para telefones multimídia e básicos sigam as mesmas orientações quando for adequado.
+
+Escolher uma estratégia para dispositivos móveis
+Há várias maneiras de otimizar seu site para dispositivos móveis, e o Google oferece suporte a diferentes métodos de implementação:
+
+Web design responsivo (recomendado)
+Exibição dinâmica
+URLs diferentes
+Depois de criar um site otimizado para dispositivos móveis, use a ferramenta de teste de compatibilidade com dispositivos móveis do Google para verificar se as páginas do site atendem aos critérios para serem consideradas como "otimizadas para dispositivos móveis" nas páginas de resultados da Pesquisa Google. Confira também o relatório de usabilidade em dispositivos móveis do Search Console para corrigir possíveis problemas que estejam afetando o site.
+
+Caso seu site veicule muito conteúdo estático (como postagens de blog ou páginas de destino do produto) em várias páginas, considere implementar esse conteúdo usando AMPs (Accelerated Mobile Pages). Elas são uma versão especial de HTML que acelera e otimiza seu site, e podem ser ainda mais aceleradas por várias plataformas, incluindo a Pesquisa Google.
+
+Configurar os sites para dispositivos móveis para que sejam indexados com precisão
+Qualquer que seja a configuração que você escolher para o site, observe os seguintes aspectos:
+
+Se você usar a Exibição dinâmica ou tiver um site diferente para dispositivos móveis, sinalize para o Google quando uma página tiver formatação para dispositivos móveis (ou tiver uma página equivalente formatada para dispositivos móveis). Isso ajuda o Google a veicular seu conteúdo com precisão aos usuários nos resultados da pesquisa.
+Ao usar o Web design responsivo, use a tag meta name="viewport" para informar ao navegador como ajustar o conteúdo. Se você usar a Exibição dinâmica, use o cabeçalho HTTP Vary para sinalizar suas mudanças dependendo do user agent. Caso use URLs separados, indique a relação entre dois URLs adicionando a tag <link> com os elementos rel="canonical" e rel="alternate" à página.
+Mantenha os recursos rastreáveis. Bloquear recursos da página pode fornecer ao Google um resumo incompleto do seu site. Isso geralmente acontece quando o arquivo robots.txt bloqueia o acesso a alguns ou a todos os recursos da página. Sem acesso aos recursos da página, como a CSS, o JavaScript ou as imagens, o Google talvez não consiga detectar que ela foi desenvolvida para exibir conteúdo e funcionar em navegadores de dispositivos móveis. Em outras palavras, a página talvez não seja lida como "compatível com dispositivos móveis" e, portanto, não seja exibida adequadamente aos usuários quando eles fizerem pesquisas nesses aparelhos.
+Evite erros comuns que frustram os visitantes em dispositivos móveis, como vídeos que não podem ser exibidos.
+As páginas para dispositivos móveis que oferecem uma experiência insatisfatória ao usuário podem ser rebaixadas nas classificações ou exibidas com um aviso nos resultados da pesquisa específica a esses dispositivos. Isso inclui, sem limitações, intersticiais de página inteira em dispositivos móveis que dificultam a experiência do usuário.
+Forneça a funcionalidade completa em todos os dispositivos. Os usuários de dispositivos móveis esperam encontrar os mesmos recursos (como os de páginas de comentários e de check-out) e conteúdo nos dispositivos móveis e em todos os dispositivos compatíveis com seu site. Além do conteúdo textual, confira se todas as imagens e todos os vídeos importantes foram incorporados e podem ser acessados em dispositivos móveis. Para os mecanismos de pesquisa, forneça todos os dados estruturados e outros metadados (como títulos, descrições, elementos de link e outras metatags) em todas as versões das páginas.
+Confira se os dados estruturados, as imagens, os vídeos e os metadados que você tem no seu site para computadores também foram incluídos no site para dispositivos móveis.
+Práticas recomendadas
+Realize o teste de compatibilidade com dispositivos móveis nas suas páginas para ver se o Google acha que o site funciona bem em dispositivos móveis.
+Se você usar URLs diferentes para suas páginas de dispositivos móveis, teste tanto o URL para dispositivos móveis quanto o URL para computadores, a fim de confirmar se o redirecionamento foi reconhecido e pode ser rastreado.
+Para ver mais informações, consulte o guia sobre otimização para dispositivos móveis do Google.
+
+Promover seu site
+Embora muitas vinculações ao site sejam feitas de modo gradual, por meio da pesquisa ou de outros modos, o Google entende que você quer informar às pessoas como foi o trabalho de produzir conteúdo para seu site. Uma promoção eficiente dos novos conteúdos agiliza a descoberta por parte de pessoas diferentes que se interessam pelo mesmo assunto. Como ocorre com a maior parte dos pontos abordados neste documento, levar essas considerações ao extremo pode prejudicar a reputação do seu site.
+
+Uma boa maneira de promover seus novos conteúdos ou serviços é postar no blog informando os visitantes que algo novo foi adicionado. Outros proprietários que seguem seu site ou feed RSS também podem aproveitar o conteúdo.
+
+A promoção off-line da empresa ou do site também pode trazer frutos. Por exemplo, se sua empresa tiver um site, não deixe de incluir o URL dele em cartões de visita, papéis timbrados e pôsteres. Outra opção é enviar newsletters por correio com regularidade aos clientes informando sobre os novos conteúdos do site da empresa.
+
+Se você administra uma empresa local, reivindique o Perfil dela para alcançar clientes no Google Maps e na Pesquisa Google.
+
+A amostra de resultado da Pesquisa Google exibe pesquisas aprimoradas de lojas físicas.
+Conheça os sites de redes sociais
+Sites que visam à interação e ao compartilhamento de conteúdos entre usuários facilitaram o processo de atingir grupos de pessoas interessadas com conteúdos relevantes.
+
+Evite:
+
+Promover todo e qualquer conteúdo criado por você. Promova itens expressivos e interessantes.
+Envolver o site em esquemas em que seu conteúdo é promovido artificialmente para a parte superior desses serviços.
+Aproxime-se dos membros de comunidades relacionadas ao seu site
+É provável que vários sites falem do mesmo assunto. Abrir um canal de comunicação com esses sites costuma ser benéfico. Tópicos em alta no seu nicho ou na sua comunidade podem despertar novas ideias de conteúdo ou gerar um bom recurso comunitário.
+
+Evite:
+
+Enviar solicitações de vinculação com prática de spam para todos os sites relacionados à sua área.
+Comprar vinculações de outro site com o objetivo de subir no PageRank.
+Analisar o comportamento do usuário e o desempenho do site na pesquisa
+Como analisar seu desempenho na pesquisa
+Os principais mecanismos de pesquisa, incluindo o Google, oferecem ferramentas para que os proprietários de sites analisem o desempenho neles. No Google, essa ferramenta é o Search Console.
+
+O Search Console fornece duas importantes categorias de informação: O Google consegue encontrar meu conteúdo? Como está meu desempenho nos resultados da Pesquisa Google?
+
+Usar o Search Console não ajuda seu site a receber um tratamento diferenciado. No entanto, isso pode ajudar a identificar problemas que, se corrigidos, ajudam o site a se sair melhor nos resultados da pesquisa.
+
+Com o serviço, os proprietários de sites podem:
+
+ver em que partes do site o Googlebot encontrou problemas de rastreamento;
+testar e enviar sitemaps;
+analisar ou gerar arquivos robots.txt;
+remover URLs já rastreados pelo Googlebot;
+especificar um domínio de preferência;
+identificar problemas com as tags title e description meta;
+entender as principais pesquisas usadas para chegar a um site;
+ter uma ideia de como o Google vê as páginas;
+receber notificações de violações da política de spam e solicitar uma reconsideração do site.
+As ferramentas para webmasters do Bing da Microsoft também oferecem recursos para os proprietários de sites.
+
+Como analisar o comportamento do usuário no seu site
+Se você melhorou o rastreamento e a indexação do seu site usando o Google Search Console ou outros serviços, provavelmente está curioso sobre o tráfego que chega a seu site. Programas de análise da Web como o Google Analytics são uma fonte de informações para saber isso. Você pode usar essas informações para:
+
+receber insights sobre como os usuários chegam e se comportam no seu site;
+descobrir o conteúdo que está mais em alta no seu site;
+avaliar o impacto das otimizações feitas no site, por exemplo, se a mudança das tags title e description meta melhorou o tráfego proveniente dos mecanismos de pesquisa.
+Para usuários avançados, as informações fornecidas por um pacote de análise em combinação com os dados dos arquivos de registro do servidor podem fornecer informações ainda mais abrangentes sobre como os visitantes estão interagindo com seus documentos (como palavras-chave adicionais que os usuários usam para encontrar seu site).
