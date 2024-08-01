@@ -17,8 +17,8 @@ observações
 
 ferramentas de melhoria de seo:
 
-- webDeveloper: extensão que mostra a semântica do html do site, se está bem feito
-
+- webDeveloper: extensão que mostra a semântica do html do site, se está bem feito, para ver basta ir em
+ "view document outline"
 
 
 Aula 1 - Entendendo o Google e o SEO
@@ -32,9 +32,11 @@ introdução - o google não se importa com o design do seu site, quem se import
 - Não podemos exagerar no uso da palavra chave,pois fica algo incômodo para o leitor!
 
 
-Aula 2 - Entendendo o público alvo
+Aula 2 - Análise de público alvo
 
 Entenda perfeitamente quem é o seu público,estude tudo que for relacionado ao seu cliente ou ao buscador que você procura para trazer para o seu artigo;
+
+
 
 Aula 3 - Análise de palavra chave
 
@@ -59,6 +61,30 @@ ubbersugest ou planejador de palavra chave do google
 
 obs: para artigos em blog são utilizadas as palavras chave de calda longa, esses sites gratuitos geralmente não oferecem a possibilidade de ver o volume de pesquisa das longtails,portanto não são preferíveis.
 
+
+Analise de concorrência -  Temos que analisar os sites concorrentes da palavra chave que buscamos,o objetivo é juntar oque tem de bom em nossos concorrentes e trazer para o nosso conteúdo.
+
+
+
+escopo de projeto seo no word:
+
+palavra chave principal
+público alvo 
+um print do site usado para mostrar as palavras chaves
+título(de 60 a 90 palavras) - ideal que as 60 utilize todas as palavras chaves necessárias,isso porque no google a partir de 60 caracteres ele põe "...", logo o usuário não verá o conteúdo.
+
+descrição( de 150 a 250 palavras) - no caso da descrição tudo que passar de 150 o google não mostra.
+h1
+h2
+h3
+
+
+escopo de projeto inicial de seo:
+
+- Definição de palavra chave principal
+- Análise de publico alvo
+- Análise de palavra chave
+- Análise de concorrência
 
 
 
